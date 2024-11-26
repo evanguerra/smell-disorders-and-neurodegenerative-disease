@@ -1,0 +1,86 @@
+Neurodegenerative Disease Entity Counts:
+\bpd\b: 317
+\bad\b: 106
+\bparkinsons\b: 101
+\bparkinsons disease\b: 92
+\bdementia\b: 73
+\balzheimers\b: 65
+\balzheimers disease\b: 55
+\bparkinson\b: 26
+\balzheimer\b: 10
+\bneurodegenerative disease\b: 5
+\bparkinsonian\b: 3
+\bms\b: 1
+\bnd\b: 0
+\bmultiple sclerosis\b: 0
+Total neurodegenerative count: 854
+
+Olfactory Entity Counts:
+\banosmia\b: 122
+\bhyposmia\b: 33
+\bsmell dysfunction\b: 5
+\bsmell loss\b: 3
+\bparosmia\b: 1
+\bphantosmia\b: 1
+\baltered sense of smell\b: 0
+\bsmell disorder\b: 0
+Total olfactory count: 165
+
+Smell Test Entity Counts:
+\bupsit\b: 42
+\bbsit\b: 6
+\bsmell test\b: 4
+\bolfactory identification test\b: 3
+\bolfactory evaluation\b: 3
+\bnih toolbox\b: 0
+\bolfactory threshhold test\b: 0
+\bsmell indentification test\b: 0
+\bsniffin' sticks\b: 0
+\bsmell function test\b: 0
+\bscentinel\b: 0
+\bolfactory dysfunction test\b: 0
+Total smell test count: 58
+
+Smell Source Entity Counts:
+\bupsit\b: 42
+\bbsit\b: 6
+\bsmell test\b: 4
+\bpeppermint\b: 4
+\bolfactory identification test\b: 3
+\bolfactory evaluation\b: 3
+\bclove\b: 1
+\bodorant\b: 1
+\blimonene\b: 0
+\bnih toolbox\b: 0
+\bvolatile\b: 0
+\bsmell indentification test\b: 0
+\bsmell function test\b: 0
+\bvanillin\b: 0
+\bphenyl ethyl alcohol\b: 0
+\borange\b: 0
+\bolfactory threshhold test\b: 0
+\bpea\b: 0
+\bsniffin' sticks\b: 0
+\bacetaldehyde\b: 0
+\bcarvone\b: 0
+\bscentinel\b: 0
+\bisoamylacetate\b: 0
+\bcinnamon aldehyde\b: 0
+\bn-butanol\b: 0
+\bessential oil\b: 0
+\beucalyptol\b: 0
+\bolfactory dysfunction test\b: 0
+Total smell source count: 64
+
+Perceiver Entity Counts:
+\bpatients\b: 266
+\bsubjects\b: 32
+\bparticipants\b: 23
+\bpatient\b: 10
+\bfemale\b: 6
+\bmen\b: 5
+\bwomen\b: 4
+\bhuman\b: 3
+\bmale\b: 2
+\bhuman subjects\b: 0
+Total perceiver count: 351

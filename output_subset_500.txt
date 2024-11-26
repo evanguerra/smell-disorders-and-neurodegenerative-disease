@@ -1,0 +1,1194 @@
+38016198|t|Multimodal spatiotemporal monitoring of basal stem cell-derived organoids reveals progression of olfactory dysfunction in Alzheimer's disease.
+38016198|a|Olfactory dysfunction (OD) is a highly prevalent symptom and an early sign of neurodegenerative diseases in humans. However, the roles of peripheral olfactory system in disease progression and the mechanisms behind neurodegeneration remain to be studied. Olfactory epithelium (OE) organoid is an ideal model to study pathophysiology in vitro, yet the reliance on 3D culture condition limits continual in situ monitoring of organoid development. Here, we combined impedance biosensors and live imaging for real-time spatiotemporal analysis of OE organoids morphological and physiological features during Alzheimer's disease (AD) progression. The impedance measurements showed that organoids generated from basal stem cells of APP/PS1 transgenic mice had lower proliferation rate than that from wild-type mice. In concert with the biosensor measurements, live imaging enabled to visualize the spatial and temporal dynamics of organoid morphology. Abnormal protein aggregation and accumulation, including amyloid plaques and neurofibrillary tangles, was found in AD organoids and increased as disease progressed. This multimodal in situ bioelectrical measurement and imaging provide a new platform for investigating onset mechanisms of OD, which would shed new light on early diagnosis and treatment of neurodegenerative disease.
+38016198	97	118	olfactory dysfunction	Disease	MESH:D000857
+38016198	122	141	Alzheimer's disease	Disease	MESH:D000544
+38016198	143	164	Olfactory dysfunction	Disease	MESH:D000857
+38016198	166	168	OD	Disease	MESH:D000857
+38016198	221	247	neurodegenerative diseases	Disease	MESH:D019636
+38016198	358	375	neurodegeneration	Disease	MESH:D019636
+38016198	746	765	Alzheimer's disease	Disease	MESH:D000544
+38016198	767	769	AD	Disease	MESH:D000544
+38016198	872	875	PS1	Gene	19164
+38016198	1145	1160	amyloid plaques	Disease	MESH:D058225
+38016198	1165	1188	neurofibrillary tangles	Disease	MESH:D055956
+38016198	1203	1205	AD	Disease	MESH:D000544
+38016198	1376	1378	OD	Disease	MESH:D000857
+38016198	1443	1468	neurodegenerative disease	Disease	MESH:D019636
+
+37258792|t|Identifying the potential role of serum miR-20a as a biomarker for olfactory dysfunction in patients with Parkinson's disease.
+37258792|a|INTRODUCTION: Olfactory dysfunction (OD), one of the most common non-motor symptoms in Parkinson's disease (PD), is a cardinal prodromal symptom that can appear years before the onset of motor symptoms. Ongoing studies have demonstrated that microRNAs (miRNAs) are suitable biomarkers for PD, while there is a lack of robust miRNAs that can serve as markers for OD in PD. METHODS: The concordantly differentially expressed miRNAs (DE miRNAs) in the damaged olfactory system were first identified in 2 OD-related Gene Expression Omnibus (GEO) datasets. Then, they were verified in another PD-related GEO dataset and only one miRNA (miR-20a) was found to be significantly altered. Serum levels of miR-20a were further measured by qPCR in 79 PD patients with OD (PD-OD), 52 PD patients without OD (PD-NOD), and 52 healthy controls (HC). Objective measure of OD was defined by 16-item Sniffin' Sticks odor identification test. All the participants underwent a demographic and comprehensive PD-related clinical assessment. RESULTS: Our results proved that miR-20a was significantly downregulated in PD-OD compared with PD-NOD and the area under curve (AUC) for OD detection by miR-20a was 0.803 (95% confidence interval, 0.724-0.883). In addition, PD-OD had higher scores of Movement Disorder Society-Unified Parkinson's Disease Rating Scale (UPDRS) II, Hoehn and Yahr stage (H-Y), Non-Motor Symptoms Scale (NMSS) 3, NMSS 5, NMSS 9, Hamilton Rating Scale for Depression (HAMD), Hamilton Anxiety Scale (HAMA), Activity of Daily Living (ADL), and lower scores of Mini-Mental State Examination (MMSE) and 39-item PD Quality of Life Questionnaire (PDQ-39) than PD-NOD. Binary regression model further presented that lower expressions of miR-20a and poorer cognitive function acted as promoting factors in the development of OD. CONCLUSION: Our results suggest that miR-20a could be a novel biomarker for OD in PD and PD-OD patients tend to have higher disease stage, poorer motor aspects of experiences of daily living, worse cognitive scores, and inferior quality of life, and were more likely to have mental disorders. Cognitive function, in particular, is strongly associated with OD in PD patients.
+37258792	40	47	miR-20a	Gene	406982
+37258792	67	88	olfactory dysfunction	Disease	MESH:D000857
+37258792	92	100	patients	Species	9606
+37258792	106	125	Parkinson's disease	Disease	MESH:D010300
+37258792	141	162	Olfactory dysfunction	Disease	MESH:D000857
+37258792	164	166	OD	Disease	MESH:D000857
+37258792	214	233	Parkinson's disease	Disease	MESH:D010300
+37258792	235	237	PD	Disease	MESH:D010300
+37258792	416	418	PD	Disease	MESH:D010300
+37258792	489	491	OD	Disease	MESH:D000857
+37258792	495	497	PD	Disease	MESH:D010300
+37258792	628	630	OD	Disease	MESH:D000857
+37258792	715	717	PD	Disease	MESH:D010300
+37258792	758	765	miR-20a	Gene	406982
+37258792	822	829	miR-20a	Gene	406982
+37258792	866	868	PD	Disease	MESH:D010300
+37258792	869	877	patients	Species	9606
+37258792	883	885	OD	Disease	MESH:D000857
+37258792	887	892	PD-OD	Disease	MESH:D010300
+37258792	898	900	PD	Disease	MESH:D010300
+37258792	901	909	patients	Species	9606
+37258792	918	920	OD	Disease	MESH:D000857
+37258792	922	928	PD-NOD	Disease	MESH:D010300
+37258792	982	984	OD	Disease	MESH:D000857
+37258792	1113	1115	PD	Disease	MESH:D010300
+37258792	1178	1185	miR-20a	Gene	406982
+37258792	1221	1226	PD-OD	Disease	MESH:D010300
+37258792	1241	1247	PD-NOD	Disease	MESH:D010300
+37258792	1283	1285	OD	Disease	MESH:D000857
+37258792	1299	1306	miR-20a	Gene	406982
+37258792	1370	1375	PD-OD	Disease	MESH:D010300
+37258792	1397	1414	Movement Disorder	Disease	MESH:D009069
+37258792	1431	1450	Parkinson's Disease	Disease	MESH:D010300
+37258792	1581	1591	Depression	Disease	MESH:D003866
+37258792	1609	1616	Anxiety	Disease	MESH:D001007
+37258792	1732	1734	PD	Disease	MESH:D010300
+37258792	1779	1785	PD-NOD	Disease	MESH:D010300
+37258792	1855	1862	miR-20a	Gene	406982
+37258792	1942	1944	OD	Disease	MESH:D000857
+37258792	1983	1990	miR-20a	Gene	406982
+37258792	2022	2024	OD	Disease	MESH:D000857
+37258792	2028	2030	PD	Disease	MESH:D010300
+37258792	2035	2040	PD-OD	Disease	MESH:D010300
+37258792	2041	2049	patients	Species	9606
+37258792	2221	2237	mental disorders	Disease	MESH:D001523
+37258792	2302	2304	OD	Disease	MESH:D000857
+37258792	2308	2310	PD	Disease	MESH:D010300
+37258792	2311	2319	patients	Species	9606
+37258792	Association	MESH:D000857	406982
+37258792	Association	MESH:D010300	406982
+
+33422806|t|Could COVID-19 anosmia and olfactory dysfunction trigger an increased risk of future dementia in patients with ApoE4?
+33422806|a|The association of the coronavirus disease 2019 (COVID-19) with significant neurological and neuropsychiatric complications has been increasingly reported, both during the acute illness and in its aftermath. However, due to the short duration of patient follow up until now, it is not clear whether this infection will be associated with longer-term neurological and/or neuropsychiatric sequelae. In particular, the question of whether COVID-19 will be associated with an increased risk and rate of future dementia remains open and subject to speculation. During the course of the COVID-19 pandemic, an increasing number of patients have reported sudden anosmia or other olfactory dysfunction as concurrent symptoms. The possibility that severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) may reach the brain via the olfactory nerve or an upper nasal trancribrial route is an interesting working hypothesis. Among the identified genetic risk factors for Late-onset Alzheimer's disease (LOAD), Apo E4 is one of the strongest and most frequent. People carrying one or two copies of the e4 allele of Apo E4 have significant odor recognition deficits in comparison to those not carrying this haplotype. The hypothesis invoked in this paper is that anosmia/olfactory dysfunctions induced by SARS-CoV-2 may cause an increased a risk of future neurodegenerative dementia in ApoE4 carriers, and that this risk would be higher than in Apo E4 carriers affected by anosmia not induced by SARS-CoV-2. This would be associated with virus-induced chronic modifications in the central nervous system. It is proposed that COVID-19 patients with anosmia and no other serious symptoms should be followed up as part of specifically designed and approved studies in order to identify the early stages of dementia (especially LOAD and Dementia with Lewy Bodies), thereby improving our knowledge of the mechanisms involved in pre-cognitive stages of neurodegenerative dementia and making best use of any available therapies. This latter opportunity is unique and should not be lost.
+33422806	6	14	COVID-19	Disease	MESH:D000086382
+33422806	15	22	anosmia	Disease	MESH:D000857
+33422806	27	48	olfactory dysfunction	Disease	MESH:D000857
+33422806	85	93	dementia	Disease	MESH:D003704
+33422806	97	105	patients	Species	9606
+33422806	111	116	ApoE4	Gene	348
+33422806	141	165	coronavirus disease 2019	Disease	MESH:D000086382
+33422806	167	175	COVID-19	Disease	MESH:D000086382
+33422806	194	241	neurological and neuropsychiatric complications	Disease	MESH:D002493
+33422806	364	371	patient	Species	9606
+33422806	422	431	infection	Disease	MESH:D007239
+33422806	468	513	neurological and/or neuropsychiatric sequelae	Disease	MESH:D009422
+33422806	554	562	COVID-19	Disease	MESH:D000086382
+33422806	624	632	dementia	Disease	MESH:D003704
+33422806	699	707	COVID-19	Disease	MESH:D000086382
+33422806	742	750	patients	Species	9606
+33422806	772	779	anosmia	Disease	MESH:D000857
+33422806	789	810	olfactory dysfunction	Disease	MESH:D000857
+33422806	856	903	severe acute respiratory syndrome coronavirus 2	Species	2697049
+33422806	905	915	SARS-CoV-2	Species	2697049
+33422806	1093	1112	Alzheimer's disease	Disease	MESH:D000544
+33422806	1114	1118	LOAD	Disease	MESH:D000544
+33422806	1121	1127	Apo E4	Gene	348
+33422806	1225	1231	Apo E4	Gene	348
+33422806	1249	1274	odor recognition deficits	Disease	MESH:D000089083
+33422806	1372	1379	anosmia	Disease	MESH:D000857
+33422806	1380	1402	olfactory dysfunctions	Disease	MESH:D000857
+33422806	1414	1424	SARS-CoV-2	Species	2697049
+33422806	1465	1491	neurodegenerative dementia	Disease	MESH:D019636
+33422806	1495	1500	ApoE4	Gene	348
+33422806	1554	1560	Apo E4	Gene	348
+33422806	1582	1589	anosmia	Disease	MESH:D000857
+33422806	1605	1615	SARS-CoV-2	Species	2697049
+33422806	1734	1742	COVID-19	Disease	MESH:D000086382
+33422806	1743	1751	patients	Species	9606
+33422806	1757	1764	anosmia	Disease	MESH:D000857
+33422806	1912	1920	dementia	Disease	MESH:D003704
+33422806	1933	1937	LOAD	Disease	MESH:D000544
+33422806	1942	1967	Dementia with Lewy Bodies	Disease	MESH:D020961
+33422806	2056	2082	neurodegenerative dementia	Disease	MESH:D019636
+33422806	Association	MESH:D000089083	348
+33422806	Positive_Correlation	MESH:D000544	348
+33422806	Association	MESH:D000857	348
+33422806	Association	MESH:D003704	348
+33422806	Association	MESH:D019636	348
+33422806	Association	MESH:D000086382	348
+
+23871228|t|Nicotine increases lifespan and rescues olfactory and motor deficits in a Drosophila model of Parkinson's disease.
+23871228|a|Drosophila melanogaster is an attractive model of familial Parkinson's disease, as flies with loss-of-function mutations of the parkin gene exhibit many pathologies observed in PD patients. Progressive motor deficits found in homozygous parkin mutants seem to result from mitochondrial pathology that causes indirect flight muscle and dopaminergic neuronal degeneration [1,2]. We have found that heterozygous parkin mutants have decreased lifespan, generally progressive motor dysfunction and olfactory deficits compared to control flies, suggesting that mutation of this gene produces a dominant phenotype. Tobacco smokers are dose-dependently less likely to develop PD [3,4]; subsequent in vitro and in vivo studies show that nicotine is protective in models of sporadic PD [6]. Literature addressing the potential protection by nicotine in Parkin loss-of-function models spans limited concentrations and selected time points in the organism's lifespan. We have found that parkin heterozygotes have late-onset climbing and flying deficits as well as decreased viability and olfactory deficits that precede motor defects. While chronic nicotine exposure decreases lifespan and climbing and flying abilities in control flies, it can improve viability and flying capability as well as rescue climbing and olfactory deficits in parkin heterozygotes. Dopaminergic neurons are spared in the parkin heterozygote, perhaps because this phenotype is less severe than in the homozygous parkin mutants. Nicotine pretreatment may be protective in sporadic PD patients and models; however, timely diagnosis remains to be an obstacle. Our results suggest that nicotine also may be protective in familial PD patients, who can be easily identified before motor symptoms occur. 
+23871228	0	8	Nicotine	Chemical	MESH:D009538
+23871228	40	49	olfactory	Disease	MESH:D000857
+23871228	54	68	motor deficits	Disease	MESH:D009461
+23871228	74	84	Drosophila	Species	7227
+23871228	94	113	Parkinson's disease	Disease	MESH:D010300
+23871228	115	138	Drosophila melanogaster	Species	7227
+23871228	174	193	Parkinson's disease	Disease	MESH:D010300
+23871228	243	249	parkin	Gene	5071
+23871228	292	294	PD	Disease	MESH:D010300
+23871228	295	303	patients	Species	9606
+23871228	317	331	motor deficits	Disease	MESH:D009461
+23871228	352	358	parkin	Gene	5071
+23871228	387	410	mitochondrial pathology	Disease	MESH:D028361
+23871228	450	484	dopaminergic neuronal degeneration	Disease	MESH:D009410
+23871228	524	530	parkin	Gene	5071
+23871228	586	603	motor dysfunction	Disease	MESH:D000068079
+23871228	608	626	olfactory deficits	Disease	MESH:D000857
+23871228	783	785	PD	Disease	MESH:D010300
+23871228	843	851	nicotine	Chemical	MESH:D009538
+23871228	888	890	PD	Disease	MESH:D010300
+23871228	946	954	nicotine	Chemical	MESH:D009538
+23871228	958	964	Parkin	Gene	5071
+23871228	1090	1096	parkin	Gene	5071
+23871228	1140	1146	flying	Disease	MESH:C000719189
+23871228	1191	1209	olfactory deficits	Disease	MESH:D000857
+23871228	1252	1260	nicotine	Chemical	MESH:D009538
+23871228	1306	1312	flying	Disease	MESH:C000719189
+23871228	1370	1376	flying	Disease	MESH:C000719189
+23871228	1419	1437	olfactory deficits	Disease	MESH:D000857
+23871228	1441	1447	parkin	Gene	5071
+23871228	1502	1508	parkin	Gene	5071
+23871228	1592	1598	parkin	Gene	5071
+23871228	1608	1616	Nicotine	Chemical	MESH:D009538
+23871228	1660	1662	PD	Disease	MESH:D010300
+23871228	1663	1671	patients	Species	9606
+23871228	1762	1770	nicotine	Chemical	MESH:D009538
+23871228	1806	1808	PD	Disease	MESH:D010300
+23871228	1809	1817	patients	Species	9606
+23871228	Association	MESH:D028361	5071
+23871228	Negative_Correlation	MESH:D009538	MESH:D010300
+23871228	Association	MESH:C000719189	5071
+23871228	Association	MESH:D009410	5071
+23871228	Negative_Correlation	MESH:D009538	MESH:D009461
+23871228	Positive_Correlation	MESH:D009538	MESH:C000719189
+23871228	Negative_Correlation	MESH:D009538	MESH:D000857
+23871228	Association	MESH:D000857	5071
+23871228	Association	MESH:D010300	5071
+23871228	Negative_Correlation	MESH:D009538	5071
+23871228	Association	MESH:D000068079	5071
+23871228	Association	MESH:D009461	5071
+
+35166976|t|Olfactory dysfunction is associated with motor function only in tremor-dominant Parkinson's disease.
+35166976|a|BACKGROUND: The prevalence of olfactory impairment in patients with Parkinson's disease (PD) is 50-90%, and therefore, olfactory dysfunction is one of the most prevalent non-motor symptoms (NMSs) in patients with PD. Numerous studies have evaluated the association between motor and non-motor symptoms and olfactory dysfunction in PD. AIM: In this study, we investigated the relationship between olfactory dysfunction, which is measured using the UPSIT test, with other motor and non-motor symptoms separately in three motor subtypes of PD, including tremor dominant (TD), postural instability and gait difficulty (PIGD), and indeterminate and healthy subjects. METHODS: We recruited 487 early-stage PD patients (43 PIGD, 406 TD, and 38 indeterminate) and healthy controls (HCs) (n = 197) from the Parkinson Progression Markers Initiative (PPMI). All participants completed motor and non-motor tests at baseline visit and after 4 years of follow-up. Subjects underwent common PD scaling tests. RESULTS: Olfactory dysfunction was significantly correlated with declined motor functions only in the TD subtype. Also, significant correlations were noticed between olfactory dysfunction and speed-attention processing and executive function in the HCs as well. Finally, no significant or meaningful association was observed in the PIGD and indeterminate subtype. Anosmia and hyposmia subjects in the TD group had the worse motor and non-motor scores compared to normosmia subjects after 4 years. CONCLUSION: Olfactory dysfunction was significantly correlated with declined motor functions in the TD subtype. This is indicating that olfactory dysfunction may be an early motor and non-motor biomarker only in the TD subtype. However, it is possible that the involvement of olfactory function in other subtypes is not strong enough to make it a useful marker of diseases progression.
+35166976	0	21	Olfactory dysfunction	Disease	MESH:D000857
+35166976	64	70	tremor	Disease	MESH:D014202
+35166976	80	99	Parkinson's disease	Disease	MESH:D010300
+35166976	131	151	olfactory impairment	Disease	MESH:D000857
+35166976	155	163	patients	Species	9606
+35166976	169	188	Parkinson's disease	Disease	MESH:D010300
+35166976	190	192	PD	Disease	MESH:D010300
+35166976	220	241	olfactory dysfunction	Disease	MESH:D000857
+35166976	271	289	non-motor symptoms	Disease	MESH:D020879
+35166976	291	295	NMSs	Disease	MESH:D020879
+35166976	300	308	patients	Species	9606
+35166976	314	316	PD	Disease	MESH:D010300
+35166976	384	402	non-motor symptoms	Disease	MESH:D020879
+35166976	407	428	olfactory dysfunction	Disease	MESH:D000857
+35166976	432	434	PD	Disease	MESH:D010300
+35166976	497	518	olfactory dysfunction	Disease	MESH:D000857
+35166976	581	599	non-motor symptoms	Disease	MESH:D020879
+35166976	638	640	PD	Disease	MESH:D010300
+35166976	652	667	tremor dominant	Disease	MESH:D014202
+35166976	669	671	TD	Disease	MESH:D014202
+35166976	674	714	postural instability and gait difficulty	Disease	MESH:D054972
+35166976	716	720	PIGD	Disease	MESH:D054972
+35166976	801	803	PD	Disease	MESH:D010300
+35166976	804	812	patients	Species	9606
+35166976	817	821	PIGD	Disease	MESH:D054972
+35166976	827	829	TD	Disease	MESH:D014202
+35166976	899	908	Parkinson	Disease	MESH:D010302
+35166976	1077	1079	PD	Disease	MESH:D010300
+35166976	1104	1125	Olfactory dysfunction	Disease	MESH:D000857
+35166976	1197	1199	TD	Disease	MESH:D014202
+35166976	1261	1282	olfactory dysfunction	Disease	MESH:D000857
+35166976	1427	1431	PIGD	Disease	MESH:D054972
+35166976	1459	1466	Anosmia	Disease	MESH:D000857
+35166976	1471	1479	hyposmia	Disease	MESH:D000086582
+35166976	1496	1498	TD	Disease	MESH:D014202
+35166976	1604	1625	Olfactory dysfunction	Disease	MESH:D000857
+35166976	1692	1694	TD	Disease	MESH:D014202
+35166976	1728	1749	olfactory dysfunction	Disease	MESH:D000857
+35166976	1808	1810	TD	Disease	MESH:D014202
+
+31177212|t|Clinical, Structural, and Neuropathological Features of Olfactory Dysfunction in Patients with Alzheimer's Disease.
+31177212|a|We explored changes in clinical features and neuropathological mechanisms underlying olfactory dysfunction (OD) in 60 patients with Alzheimer's disease (AD). Olfactory function was evaluated using the Sniffin' Sticks test and a threshold discrimination identification (TDI) score. Based on the TDI score, we divided patients according to the presence or absence of OD (AD-OD and AD-NOD, respectively). Cognitive and neuropsychiatric symptoms were evaluated by a series of rating scales. The volumes and cortical thickness of the thalamus, hippocampus, and amygdala were measured using structural magnetic resonance imaging. Neuropathological protein levels in cerebrospinal fluid were measured. The frequency of OD was 50%. TDI scores were lower in the AD-OD group than in the AD-NOD group (p < 0.001). Compared with the AD-NOD group, the AD-OD group showed greater cognitive function impairments (p < 0.001), and daily living activities were more severely compromised (p = 0.019). The AD-OD group had lower hippocampal and amygdala volumes (p = 0.025, p = 0.030, respectively) and a more pronounced reduction in cortical thickness (p = 0.010). The total tau level was lower in the AD-OD group than the AD-NOD group (p = 0.040). Lower Mini-Mental State Examination scores and thinner AD-signature cortices were associated with lower TDI scores (OR = 0.826, p < 0.001; OR = 1.433, p = 0.008). Overall, in AD patients, the impairments in olfactory discrimination and identification seem to be more correlated with cognitive levels. OD in AD may be an indicator of pathological cognitive decline and structural changes.
+31177212	56	77	Olfactory Dysfunction	Disease	MESH:D000857
+31177212	81	89	Patients	Species	9606
+31177212	95	114	Alzheimer's Disease	Disease	MESH:D000544
+31177212	201	222	olfactory dysfunction	Disease	MESH:D000857
+31177212	224	226	OD	Disease	MESH:D000857
+31177212	234	242	patients	Species	9606
+31177212	248	267	Alzheimer's disease	Disease	MESH:D000544
+31177212	269	271	AD	Disease	MESH:D000544
+31177212	432	440	patients	Species	9606
+31177212	481	483	OD	Disease	MESH:D000857
+31177212	485	487	AD	Disease	MESH:D000544
+31177212	488	490	OD	Disease	MESH:D000857
+31177212	495	497	AD	Disease	MESH:D000544
+31177212	498	501	NOD	Disease	MESH:D020191
+31177212	518	557	Cognitive and neuropsychiatric symptoms	Disease	MESH:D003072
+31177212	828	830	OD	Disease	MESH:D000857
+31177212	869	871	AD	Disease	MESH:D000544
+31177212	872	874	OD	Disease	MESH:D000857
+31177212	893	895	AD	Disease	MESH:D000544
+31177212	896	899	NOD	Disease	MESH:D020191
+31177212	937	939	AD	Disease	MESH:D000544
+31177212	940	943	NOD	Disease	MESH:D020191
+31177212	955	957	AD	Disease	MESH:D000544
+31177212	958	960	OD	Disease	MESH:D000857
+31177212	982	1012	cognitive function impairments	Disease	MESH:D003072
+31177212	1102	1104	AD	Disease	MESH:D000544
+31177212	1105	1107	OD	Disease	MESH:D000857
+31177212	1271	1274	tau	Gene	4137
+31177212	1298	1300	AD	Disease	MESH:D000544
+31177212	1301	1303	OD	Disease	MESH:D000857
+31177212	1319	1321	AD	Disease	MESH:D000544
+31177212	1322	1325	NOD	Disease	MESH:D020191
+31177212	1400	1402	AD	Disease	MESH:D000544
+31177212	1520	1522	AD	Disease	MESH:D000544
+31177212	1523	1531	patients	Species	9606
+31177212	1537	1595	impairments in olfactory discrimination and identification	Disease	MESH:D000857
+31177212	1646	1648	OD	Disease	MESH:D000857
+31177212	1652	1654	AD	Disease	MESH:D000544
+31177212	1678	1690	pathological	Disease	MESH:D005598
+31177212	1691	1708	cognitive decline	Disease	MESH:D003072
+31177212	Negative_Correlation	MESH:D000857	4137
+31177212	Association	MESH:D000544	4137
+
+26873234|t|[Impairment of Odor Recognition in Myotonic Dystrophy Type 1].
+26873234|a|There is evidence that impaired human cognitive abilities are reflected in loss of olfactory abilities. Declining olfactory perception may be a biomarker for impairment of cognitive function and of impending illnesses in neurodegenerative disorders such as Parkinson's disease (PD) and Alzheimer's disease (AD). Previously, we reported that patients with myotonic dystrophy type 1 (DM 1) had lower sensitivity to emotional facial expressions as well as abnormal olfactory threshold or recognition level. In DM 1, pathological studies have reported neurofibrillary tangles in several temporal areas including the entorhinal cortex (ENT), hippocampus (HI), and the amygdala. We observed that patients with DM 1 showed signal abnormalities in the olfactory limbic areas on magnetic resonance imaging. Our findings underscore the need to pay careful attention to significant decreases in odor identification abilities caused by diverse forms of abnormal brain function, especially in the AMG, ENT and HI. 
+26873234	1	34	Impairment of Odor Recognition in	Disease	MESH:D000089083
+26873234	35	60	Myotonic Dystrophy Type 1	Disease	MESH:D009223
+26873234	86	120	impaired human cognitive abilities	Disease	MESH:D003072
+26873234	146	155	olfactory	Disease	MESH:D000857
+26873234	177	186	olfactory	Disease	MESH:D000857
+26873234	221	253	impairment of cognitive function	Disease	MESH:D003072
+26873234	284	311	neurodegenerative disorders	Disease	MESH:D019636
+26873234	320	339	Parkinson's disease	Disease	MESH:D010300
+26873234	341	343	PD	Disease	MESH:D010300
+26873234	349	368	Alzheimer's disease	Disease	MESH:D000544
+26873234	370	372	AD	Disease	MESH:D000544
+26873234	404	412	patients	Species	9606
+26873234	418	443	myotonic dystrophy type 1	Disease	MESH:D009223
+26873234	445	449	DM 1	Disease	MESH:D009223
+26873234	525	534	olfactory	Disease	MESH:D000857
+26873234	570	574	DM 1	Disease	MESH:D009223
+26873234	611	634	neurofibrillary tangles	Disease	MESH:D055956
+26873234	753	761	patients	Species	9606
+26873234	767	771	DM 1	Disease	MESH:D009223
+26873234	807	816	olfactory	Disease	MESH:D000857
+
+32583050|t|Olfactory testing does not predict beta-amyloid, MRI measures of neurodegeneration or vascular pathology in the British 1946 birth cohort.
+32583050|a|OBJECTIVE: To explore the value of olfactory identification deficits as a predictor of cerebral beta-amyloid status and other markers of brain health in cognitively normal adults aged ~ 70 years. METHODS: Cross-sectional observational cohort study. 389 largely healthy and cognitively normal older adults were recruited from the MRC National Survey of Health and Development (1946 British Birth cohort) and investigated for olfactory identification deficits, as measured by the University of Pennsylvania Smell Identification Test. Outcome measures were imaging markers of brain health derived from 3 T MRI scanning (cortical thickness, entorhinal cortex thickness, white matter hyperintensity volumes); 18F florbetapir amyloid-PET scanning; and cognitive testing results. Participants were assessed at a single centre between March 2015 and January 2018. RESULTS: Mean (+- SD) age was 70.6 (+- 0.7) years, 50.8% were female. 64.5% had hyposmia and 2.6% anosmia. Olfaction showed no association with beta-amyloid status, hippocampal volume, entorhinal cortex thickness, AD signature cortical thickness, white matter hyperintensity volume, or cognition. CONCLUSION AND RELEVANCE: In the early 70s, olfactory function is not a reliable predictor of a range of imaging and cognitive measures of preclinical AD. Olfactory identification deficits are not likely to be a useful means of identifying asymptomatic amyloidosis. Further studies are required to assess if change in olfaction may be a proximity marker for the development of cognitive impairment.
+32583050	65	82	neurodegeneration	Disease	MESH:D019636
+32583050	86	104	vascular pathology	Disease	MESH:D005598
+32583050	174	207	olfactory identification deficits	Disease	MESH:D000857
+32583050	563	596	olfactory identification deficits	Disease	MESH:D000857
+32583050	843	858	18F florbetapir	Chemical	MESH:C545186
+32583050	1075	1083	hyposmia	Disease	MESH:D000086582
+32583050	1093	1100	anosmia	Disease	MESH:D000857
+32583050	1209	1211	AD	Disease	MESH:D000544
+32583050	1443	1445	AD	Disease	MESH:D000544
+32583050	1447	1480	Olfactory identification deficits	Disease	MESH:D000857
+32583050	1545	1556	amyloidosis	Disease	MESH:D000686
+32583050	1669	1689	cognitive impairment	Disease	MESH:D003072
+
+22305338|t|Olfactory ERPs in an odor/visual congruency task differentiate ApoE epsilon4 carriers from non-carriers.
+22305338|a|Alzheimer's disease (AD) is a progressive, neurodegenerative disorder that impairs memory and semantic processing. AD patients and MCI patients at risk for AD show altered N400 ERP responses to incongruent visual and verbal stimuli. AD patients exhibit neuropathology in olfactory brain areas before cognitive symptoms, suggesting the potential for olfactory processing to reflect early pathology. Despite this, odor congruency has not been examined. We investigated odor-image congruency in older adults at genetic risk for AD. ApoE epsilon4 carriers and non-carriers were screened for anosmia, severe hyposmia, and dementia. Olfactory ERPs were measured 600-1300 ms following odor-image pairs. Odors were each presented once congruently and once incongruently via an olfactometer. Pz amplitude significantly decreased on incongruent trials in e4 carriers. Pz amplitude differences on congruous and incongruous trials were larger in non carriers. Regression indicated that congruency showed very high sensitivity and specificity for correctly classifying epsilon4 carriers from non-carriers.
+22305338	63	67	ApoE	Gene	348
+22305338	105	124	Alzheimer's disease	Disease	MESH:D000544
+22305338	126	128	AD	Disease	MESH:D000544
+22305338	148	174	neurodegenerative disorder	Disease	MESH:D019636
+22305338	220	222	AD	Disease	MESH:D000544
+22305338	223	231	patients	Species	9606
+22305338	236	239	MCI	Disease	
+22305338	240	248	patients	Species	9606
+22305338	261	263	AD	Disease	MESH:D000544
+22305338	338	340	AD	Disease	MESH:D000544
+22305338	341	349	patients	Species	9606
+22305338	630	632	AD	Disease	MESH:D000544
+22305338	634	638	ApoE	Gene	348
+22305338	692	699	anosmia	Disease	MESH:D000857
+22305338	708	716	hyposmia	Disease	MESH:D000086582
+22305338	722	730	dementia	Disease	MESH:D003704
+22305338	Association	MESH:D000086582	348
+22305338	Association	MESH:D003704	348
+22305338	Association	MESH:D000857	348
+
+39113792|t|Rbm24/Notch1 signaling regulates adult neurogenesis in the subventricular zone and mediates Parkinson-associated olfactory dysfunction.
+39113792|a|Rationale: Adult neurogenesis in the subventricular zone (SVZ) is essential for maintaining neural homeostasis, and its dysregulation contributes to anosmia and delayed tissue healing in neurological disorders, such as Parkinson's disease (PD). Despite intricate regulatory networks identified in SVZ neurogenesis, the molecular mechanisms dynamically maintaining neural stem/progenitor cells (NSPCs) in response to physiological and pathological stimuli remain incompletely elucidated. Methods: We generated an RNA binding motif protein 24 (Rbm24) knockout model to investigate its impact on adult neurogenesis in the SVZ, employing immunofluorescence, immunoblot, electrophysiology, RNA-sequencing, and in vitro experiments. Further investigations utilized a PD mouse model, along with genetic and pharmacological manipulations, to elucidate Rbm24 involvement in PD pathology. Results: Rbm24, a multifaceted post-transcriptional regulator of cellular homeostasis, exhibited broad expression in the SVZ from development to aging. Deletion of Rbm24 significantly impaired NSPC proliferation in the adult SVZ, ultimately resulting in collapsed neurogenesis in the olfactory bulb. Notably, Rbm24 played a specific role in maintaining Notch1 mRNA stability in adult NSPCs. The Rbm24/Notch1 signaling axis was significantly downregulated in the SVZ of PD mice. Remarkably, overexpression of Rbm24 rescued disruption of adult neurogenesis and olfactory dysfunction in PD mice, and these effects were hindered by DAPT, a potent inhibitor of Notch1. Conclusions: Our findings highlight the critical role of the Rbm24/Notch1 signaling axis in regulating adult SVZ neurogenesis under physiological and pathological circumstances. This provides valuable insights into the dynamic regulation of NSPC homeostasis and offers a potential targeted intervention for PD and related neurological disorders.
+39113792	0	5	Rbm24	Gene	666794
+39113792	6	12	Notch1	Gene	18128
+39113792	92	101	Parkinson	Disease	MESH:D010302
+39113792	113	134	olfactory dysfunction	Disease	MESH:D000857
+39113792	285	292	anosmia	Disease	MESH:D000857
+39113792	323	345	neurological disorders	Disease	MESH:D009461
+39113792	355	374	Parkinson's disease	Disease	MESH:D010300
+39113792	376	378	PD	Disease	MESH:D010300
+39113792	648	676	RNA binding motif protein 24	Gene	666794
+39113792	678	683	Rbm24	Gene	666794
+39113792	897	899	PD	Disease	MESH:D010300
+39113792	900	905	mouse	Species	10090
+39113792	980	985	Rbm24	Gene	666794
+39113792	1001	1003	PD	Disease	MESH:D010300
+39113792	1024	1029	Rbm24	Gene	666794
+39113792	1179	1184	Rbm24	Gene	666794
+39113792	1324	1329	Rbm24	Gene	666794
+39113792	1368	1374	Notch1	Gene	18128
+39113792	1410	1415	Rbm24	Gene	666794
+39113792	1416	1422	Notch1	Gene	18128
+39113792	1484	1486	PD	Disease	MESH:D010300
+39113792	1487	1491	mice	Species	10090
+39113792	1523	1528	Rbm24	Gene	666794
+39113792	1574	1595	olfactory dysfunction	Disease	MESH:D000857
+39113792	1599	1601	PD	Disease	MESH:D010300
+39113792	1602	1606	mice	Species	10090
+39113792	1643	1647	DAPT	Chemical	-
+39113792	1671	1677	Notch1	Gene	18128
+39113792	1740	1745	Rbm24	Gene	666794
+39113792	1746	1752	Notch1	Gene	18128
+39113792	1986	1988	PD	Disease	MESH:D010300
+39113792	2001	2023	neurological disorders	Disease	MESH:D009461
+39113792	Negative_Correlation	MESH:D010300	18128
+39113792	Association	MESH:D000857	666794
+39113792	Association	MESH:D010300	666794
+39113792	Association	18128	666794
+39113792	Association	MESH:D010302	18128
+39113792	Association	MESH:D010302	666794
+39113792	Association	MESH:D000857	18128
+
+28543731|t|Neuroimaging biomarkers and impaired olfaction in cognitively normal individuals.
+28543731|a|OBJECTIVE: There is a need for inexpensive noninvasive tests to identify older healthy persons at risk for Alzheimer disease (AD) for enrollment in AD prevention trials. Our objective was to examine whether abnormalities in neuroimaging measures of amyloid and neurodegeneration are correlated with odor identification (OI) in the population-based Mayo Clinic Study of Aging. METHODS: Cognitively normal (CN) participants had olfactory function assessed using the Brief Smell Identification Test (B-SIT), underwent magnetic resonance imaging (n = 829) to assess a composite AD signature cortical thickness and hippocampal volume (HVa), and underwent 11 C-Pittsburgh compound B (n = 306) and 18 fluorodeoxyglucose (n = 305) positron emission tomography scanning to assess amyloid accumulation and brain hypometabolism, respectively. The association of neuroimaging biomarkers with OI was examined using multinomial logistic regression and simple linear regression models adjusted for potential confounders. RESULTS: Among 829 CN participants (mean age = 79.2 years; 51.5% men), 248 (29.9%) were normosmic and 78 (9.4%) had anosmia (B-SIT score < 6). Abnormal AD signature cortical thickness and reduced HVa were associated with decreased OI as a continuous measure (slope = -0.43, 95% confidence interval [CI] = -0.76 to -0.09, p = 0.01 and slope = -0.72, 95% CI = -1.15 to -0.28, p < 0.01, respectively). Reduced HVa, decreased AD signature cortical thickness, and increased amyloid accumulation were significantly associated with increased odds of anosmia. INTERPRETATION: Our findings suggest that OI may be a noninvasive, inexpensive marker for risk stratification, for identifying participants at the preclinical stage of AD who may be at risk for cognitive impairment and eligible for inclusion in AD prevention clinical trials. These cross-sectional findings remain to be validated prospectively. Ann Neurol 2017;81:871-882.
+28543731	28	46	impaired olfaction	Disease	MESH:D000857
+28543731	189	206	Alzheimer disease	Disease	MESH:D000544
+28543731	208	210	AD	Disease	MESH:D000544
+28543731	230	232	AD	Disease	MESH:D000544
+28543731	331	338	amyloid	Disease	MESH:C000718787
+28543731	343	360	neurodegeneration	Disease	MESH:D019636
+28543731	656	658	AD	Disease	MESH:D000544
+28543731	735	758	C-Pittsburgh compound B	Chemical	-
+28543731	776	794	fluorodeoxyglucose	Chemical	MESH:D019788
+28543731	853	873	amyloid accumulation	Disease	MESH:C000718787
+28543731	878	898	brain hypometabolism	Disease	MESH:D001927
+28543731	1153	1156	men	Species	9606
+28543731	1204	1211	anosmia	Disease	MESH:D000857
+28543731	1240	1242	AD	Disease	MESH:D000544
+28543731	1510	1512	AD	Disease	MESH:D000544
+28543731	1557	1577	amyloid accumulation	Disease	MESH:C000718787
+28543731	1631	1638	anosmia	Disease	MESH:D000857
+28543731	1808	1810	AD	Disease	MESH:D000544
+28543731	1834	1854	cognitive impairment	Disease	MESH:D003072
+28543731	1885	1887	AD	Disease	MESH:D000544
+28543731	Negative_Correlation	MESH:D019788	MESH:C000718787
+28543731	Association	MESH:D019788	MESH:D001927
+
+38430690|t|Longitudinal brain changes in Parkinson's disease with severe olfactory deficit.
+38430690|a|INTRODUCTION: Olfactory dysfunction and REM sleep behavior disorder (RBD) are associated with distinct cognitive trajectories in the course of Parkinson's disease (PD). The underlying neurobiology for this relationship remains unclear but may involve distinct patterns of neurodegeneration. This study aimed to examine longitudinal cortical atrophy and thinning in early-stage PD with severe olfactory deficit (anosmia) without and with concurrent probable RBD. METHODS: Longitudinal MRI data over four years of 134 de novo PD and 49 healthy controls (HC) from the Parkinson Progression Marker Initiative (PPMI) cohort were analyzed using a linear mixed-effects model. Patients were categorized into those with anosmia by the University of Pennsylvania Smell Identification Test (UPSIT) score <= 18 (AO+) and those without (UPSIT score > 18, AO-). The AO+ group was further subdivided into AO+ with probable RBD (AO+RBD+) and without (AO+RBD-) for subanalysis. RESULTS: Compared to subjects without baseline anosmia, the AO+ group exhibited greater longitudinal declines in both volume and thickness in the bilateral parahippocampal gyri and right transverse temporal gyrus. Patients with concurrent anosmia and RBD showed more extensive longitudinal declines in cortical volume and thickness, involving additional brain regions including the bilateral precuneus, left inferior temporal gyrus, right paracentral gyrus, and right precentral gyrus. CONCLUSIONS: The atrophy/thinning patterns in early-stage PD with severe olfactory dysfunction include regions that are critical for cognitive function and could provide a structural basis for previously reported associations between severe olfactory deficit and cognitive decline in PD. Concurrent RBD might enhance the dynamics of cortical changes.
+38430690	30	49	Parkinson's disease	Disease	MESH:D010300
+38430690	62	79	olfactory deficit	Disease	MESH:D000857
+38430690	95	116	Olfactory dysfunction	Disease	MESH:D000857
+38430690	121	148	REM sleep behavior disorder	Disease	MESH:D020187
+38430690	150	153	RBD	Disease	MESH:D020187
+38430690	224	243	Parkinson's disease	Disease	MESH:D010300
+38430690	245	247	PD	Disease	MESH:D010300
+38430690	353	370	neurodegeneration	Disease	MESH:D019636
+38430690	422	429	atrophy	Disease	MESH:D001284
+38430690	458	460	PD	Disease	MESH:D010300
+38430690	473	490	olfactory deficit	Disease	MESH:D000857
+38430690	492	499	anosmia	Disease	MESH:D000857
+38430690	538	541	RBD	Disease	MESH:D020187
+38430690	605	607	PD	Disease	MESH:D010300
+38430690	646	655	Parkinson	Disease	MESH:D010302
+38430690	750	758	Patients	Species	9606
+38430690	792	799	anosmia	Disease	MESH:D000857
+38430690	989	992	RBD	Disease	MESH:D020187
+38430690	997	1000	RBD	Disease	MESH:D020187
+38430690	1019	1022	RBD	Disease	MESH:D020187
+38430690	1089	1096	anosmia	Disease	MESH:D000857
+38430690	1256	1264	Patients	Species	9606
+38430690	1281	1288	anosmia	Disease	MESH:D000857
+38430690	1293	1296	RBD	Disease	MESH:D020187
+38430690	1545	1552	atrophy	Disease	MESH:D001284
+38430690	1586	1588	PD	Disease	MESH:D010300
+38430690	1601	1622	olfactory dysfunction	Disease	MESH:D000857
+38430690	1769	1786	olfactory deficit	Disease	MESH:D000857
+38430690	1791	1808	cognitive decline	Disease	MESH:D003072
+38430690	1812	1814	PD	Disease	MESH:D010300
+38430690	1827	1830	RBD	Disease	MESH:D020187
+
+20211105|t|Smell and preclinical Alzheimer disease: study of 29 patients with amnesic mild cognitive impairment.
+20211105|a|OBJECTIVES: To evaluate the olfactory function in patients with amnesic mild cognitive impairment (aMCI) and the relationship to the progression from aMCI to Alzheimer disease (AD). DESIGN: Cohort prospective study on aMCI patients at the first evaluation (T0) and at the 18-month follow-up (T1). SETTING: Alzheimer Unit of the University of L'Aquila, Italy. METHODS: Twenty-nine aMCI patients were enrolled in this study. MAIN OUTCOME MEASURES: Olfactory function was studied with the Sniffin' Sticks Screening Test (SSST) and the Sniffin' Sticks Extended Test (SSET). Olfactory functions were related to neurocognitive functions assessed by the Mini-Mental State Examination (MMSE) and the Mental Deterioration Battery (MDB). RESULTS: At T0, aMCI patients showed an olfactory impairment and all of the aMCI patients had lower olfaction scores at T1. At T1, 9 of the 29 aMCI patients (31%) developed AD and had lower mean SSST and SSET scores than 20 aMCI patients who did not develop AD. The most significant relationship was found between olfactory discrimination and visuospatial ability, language skill, and the Rey Immediate test of the MDB and between olfactory identification and the Rey Delayed test. CONCLUSION: Odour discrimination and identification performance correlated more prominently than detection thresholds with performance on neuropsychological tests. We concluded that the olfactory deficit occurs early in aMCI, so we suggest introducing the clinical routine use of the olfactory test for early identification of the progression of the decline from aMCI to AD.
+20211105	0	5	Smell	Disease	MESH:D000857
+20211105	22	39	Alzheimer disease	Disease	MESH:D000544
+20211105	53	61	patients	Species	9606
+20211105	67	100	amnesic mild cognitive impairment	Disease	MESH:D060825
+20211105	152	160	patients	Species	9606
+20211105	166	199	amnesic mild cognitive impairment	Disease	MESH:D060825
+20211105	201	205	aMCI	Disease	MESH:D060825
+20211105	252	256	aMCI	Disease	MESH:D060825
+20211105	260	277	Alzheimer disease	Disease	MESH:D000544
+20211105	279	281	AD	Disease	MESH:D000544
+20211105	320	324	aMCI	Disease	MESH:D060825
+20211105	325	333	patients	Species	9606
+20211105	408	417	Alzheimer	Disease	MESH:D000544
+20211105	482	486	aMCI	Disease	MESH:D060825
+20211105	487	495	patients	Species	9606
+20211105	846	850	aMCI	Disease	MESH:D060825
+20211105	851	859	patients	Species	9606
+20211105	870	890	olfactory impairment	Disease	MESH:D000857
+20211105	906	910	aMCI	Disease	MESH:D060825
+20211105	911	919	patients	Species	9606
+20211105	973	977	aMCI	Disease	MESH:D060825
+20211105	978	986	patients	Species	9606
+20211105	1003	1005	AD	Disease	MESH:D000544
+20211105	1054	1058	aMCI	Disease	MESH:D060825
+20211105	1059	1067	patients	Species	9606
+20211105	1088	1090	AD	Disease	MESH:D000544
+20211105	1498	1515	olfactory deficit	Disease	MESH:D000857
+20211105	1532	1536	aMCI	Disease	MESH:D060825
+20211105	1675	1679	aMCI	Disease	MESH:D060825
+20211105	1683	1685	AD	Disease	MESH:D000544
+
+20182024|t|Effects of caffeine in Parkinson's disease: from neuroprotection to the management of motor and non-motor symptoms.
+20182024|a|Parkinson's disease (PD) is the second most common neurodegenerative disorder affecting approximately 1% of the population older than 60 years. Classically, PD is considered to be a motor system disease and its diagnosis is based on the presence of a set of cardinal motor signs (rigidity, bradykinesia, rest tremor) that are consequence of a pronounced death of dopaminergic neurons in the substantia nigra pars compacta. Nowadays there is considerable evidence showing that non-dopaminergic degeneration also occurs in other brain areas which seems to be responsible for the deficits in olfactory, emotional and memory functions that precede the classical motor symptoms in PD. The present review attempts to examine results reported in epidemiological, clinical and animal studies to provide a comprehensive picture of the antiparkinsonian potential of caffeine. Convergent epidemiological and pre-clinical data suggest that caffeine may confer neuroprotection against the underlying dopaminergic neuron degeneration, and influence the onset and progression of PD. The available data also suggest that caffeine can improve the motor deficits of PD and that adenosine A2A receptor antagonists such as istradefylline reduces OFF time and dyskinesia associated with standard 'dopamine replacement' treatments. Finally, recent experimental findings have indicated the potential of caffeine in the management of non-motor symptoms of PD, which do not improve with the current dopaminergic drugs. Altogether, the studies reviewed provide strong evidence that caffeine may represent a promising therapeutic tool in PD, thus being the first compound to restore both motor and non-motor early symptoms of PD together with its neuroprotective potential.
+20182024	11	19	caffeine	Chemical	MESH:D002110
+20182024	23	42	Parkinson's disease	Disease	MESH:D010300
+20182024	116	135	Parkinson's disease	Disease	MESH:D010300
+20182024	137	139	PD	Disease	MESH:D010300
+20182024	167	193	neurodegenerative disorder	Disease	MESH:D019636
+20182024	273	275	PD	Disease	MESH:D010300
+20182024	298	318	motor system disease	Disease	MESH:D016472
+20182024	396	404	rigidity	Disease	MESH:D009127
+20182024	406	418	bradykinesia	Disease	MESH:D018476
+20182024	420	431	rest tremor	Disease	MESH:D014202
+20182024	479	491	dopaminergic	Disease	MESH:D009422
+20182024	596	608	dopaminergic	Disease	MESH:D009422
+20182024	705	714	olfactory	Disease	MESH:D000857
+20182024	716	746	emotional and memory functions	Disease	MESH:D008569
+20182024	792	794	PD	Disease	MESH:D010300
+20182024	972	980	caffeine	Chemical	MESH:D002110
+20182024	1044	1052	caffeine	Chemical	MESH:D002110
+20182024	1103	1135	dopaminergic neuron degeneration	Disease	MESH:D009410
+20182024	1180	1182	PD	Disease	MESH:D010300
+20182024	1221	1229	caffeine	Chemical	MESH:D002110
+20182024	1246	1260	motor deficits	Disease	MESH:D009461
+20182024	1264	1266	PD	Disease	MESH:D010300
+20182024	1289	1298	 receptor	Gene	135
+20182024	1286	1289	A2A	DNAMutation	tmVar:c|SUB|A|2|A;HGVS:c.2A>A;VariantGroup:0
+20182024	1319	1333	istradefylline	Chemical	MESH:C111599
+20182024	1355	1365	dyskinesia	Disease	MESH:D004409
+20182024	1392	1400	dopamine	Chemical	MESH:D004298
+20182024	1496	1504	caffeine	Chemical	MESH:D002110
+20182024	1548	1550	PD	Disease	MESH:D010300
+20182024	1672	1680	caffeine	Chemical	MESH:D002110
+20182024	1727	1729	PD	Disease	MESH:D010300
+20182024	1815	1817	PD	Disease	MESH:D010300
+20182024	Association	HGVS:c.2A>A	MESH:D004409
+20182024	Negative_Correlation	MESH:C111599	135
+20182024	Negative_Correlation	MESH:C111599	HGVS:c.2A>A
+20182024	Positive_Correlation	MESH:D002110	MESH:D009461
+20182024	Negative_Correlation	MESH:C111599	MESH:D004409
+20182024	Negative_Correlation	MESH:D002110	MESH:D009410
+20182024	Negative_Correlation	MESH:D002110	MESH:D010300
+
+36341691|t|Anosmia, mild cognitive impairment, and biomarkers of brain aging in older adults.
+36341691|a|Olfactory impairment is a potential marker for prodromal dementia, but the underlying mechanisms are poorly understood. This population-based study included 4214 dementia-free participants (age >=65 years). Olfaction was assessed using the 16-item Sniffin' Sticks identification test. In the subsamples, we measured plasma amyloid beta (Abeta)40, Abeta42, total tau, and neurofilament light chain (NfL; n = 1054); and quantified hippocampal, entorhinal cortex, and white matter hyperintensity (WMH) volumes, and Alzheimer's disease (AD)-signature cortical thickness (n = 917). Data were analyzed with logistic and linear regression models. In the total sample, mild cognitive impairment (MCI) was diagnosed in 1102 persons (26.2%; amnestic MCI, n = 931; non-amnestic MCI, n = 171). Olfactory impairment was significantly associated with increased likelihoods of MCI, amnestic MCI, and non-amnestic MCI. In the subsamples, anosmia was significantly associated with higher plasma total tau and NfL concentrations, smaller hippocampal and entorhinal cortex volumes, and greater WMH volume, and marginally with lower AD-signature cortical thickness. These results suggest that cerebral neurodegenerative and microvascular lesions are common neuropathologies linking anosmia with MCI in older adults.
+36341691	0	7	Anosmia	Disease	MESH:D000857
+36341691	9	34	mild cognitive impairment	Disease	MESH:D060825
+36341691	54	65	brain aging	Disease	MESH:D001927
+36341691	83	103	Olfactory impairment	Disease	MESH:D000857
+36341691	140	148	dementia	Disease	MESH:D003704
+36341691	245	253	dementia	Disease	MESH:D003704
+36341691	406	428	amyloid beta (Abeta)40	Gene	351
+36341691	430	437	Abeta42	Gene	351
+36341691	445	448	tau	Gene	4137
+36341691	454	479	neurofilament light chain	Gene	4747
+36341691	481	484	NfL	Gene	4747
+36341691	548	575	white matter hyperintensity	Disease	MESH:D056784
+36341691	577	580	WMH	Disease	MESH:D056784
+36341691	595	614	Alzheimer's disease	Disease	MESH:D000544
+36341691	616	618	AD	Disease	MESH:D000544
+36341691	744	769	mild cognitive impairment	Disease	MESH:D060825
+36341691	771	774	MCI	Disease	MESH:D060825
+36341691	823	826	MCI	Disease	MESH:D060825
+36341691	850	853	MCI	Disease	MESH:D060825
+36341691	865	885	Olfactory impairment	Disease	MESH:D000857
+36341691	945	948	MCI	Disease	MESH:D060825
+36341691	959	962	MCI	Disease	MESH:D060825
+36341691	981	984	MCI	Disease	MESH:D060825
+36341691	1005	1012	anosmia	Disease	MESH:D000857
+36341691	1067	1070	tau	Gene	4137
+36341691	1075	1078	NfL	Gene	4747
+36341691	1158	1161	WMH	Disease	MESH:D056784
+36341691	1196	1198	AD	Disease	MESH:D000544
+36341691	1256	1308	cerebral neurodegenerative and microvascular lesions	Disease	MESH:D019636
+36341691	1345	1352	anosmia	Disease	MESH:D000857
+36341691	1358	1361	MCI	Disease	MESH:D060825
+36341691	Association	MESH:D000857	4747
+36341691	Positive_Correlation	MESH:D000857	4137
+
+32249295|t|Orthonasal, but not Retronasal Olfaction Is Specifically Impaired in Parkinson's Disease.
+32249295|a|Olfactory dysfunction (OD) in Parkinson's disease (PD) appears several years before the presence of motor disturbance. Olfactory testing has the potential to serve as a tool for early detection of PD, but OD is not specific to PD as it affects up to 20% of the general population. Olfaction includes an orthonasal and a retronasal components; in some forms of OD, retronasal olfactory function is preserved. We aimed to evaluate whether combined testing components allows for discriminating between PD-related OD and non-Parkinsonian OD (NPOD). The objective of this study is to orthonasal and retronasal olfactory function in PD patients and compare them to a NPOD group and to healthy controls. We hypothesized that this combined testing allows to distinguish PD patients from both other groups. We included 32 PD patients, 25 NPOD patients, and 15 healthy controls. Both olfactory components were impaired in PD and NPOD patients, compared with controls; however, NPOD patients had significantly better orthonasal scores than PD patients. Furthermore, the ratio of retronasal/orthonasal score was higher in PD than in both other groups. In the NPOD group, orthonasal and retronasal scores were significantly correlated; no such correlation could be observed in PD patients. In summary, PD patients seem to rely on compensatory mechanisms for flavor perception. Combined orthonasal and retronasal olfactory testing may contribute to differentiate PD patients from patients with NPOD.
+32249295	10	15	, but	Disease	
+32249295	20	30	Retronasal	Disease	
+32249295	69	88	Parkinson's Disease	Disease	MESH:D010300
+32249295	90	111	Olfactory dysfunction	Disease	MESH:D000857
+32249295	113	115	OD	Disease	MESH:D000857
+32249295	120	139	Parkinson's disease	Disease	MESH:D010300
+32249295	141	143	PD	Disease	MESH:D010300
+32249295	190	207	motor disturbance	Disease	MESH:D014832
+32249295	287	289	PD	Disease	MESH:D010300
+32249295	295	297	OD	Disease	MESH:D000857
+32249295	317	319	PD	Disease	MESH:D010300
+32249295	410	420	retronasal	Disease	
+32249295	450	452	OD	Disease	MESH:D000857
+32249295	454	464	retronasal	Disease	
+32249295	589	591	PD	Disease	MESH:D010300
+32249295	600	602	OD	Disease	MESH:D000857
+32249295	607	626	non-Parkinsonian OD	Disease	MESH:D010300
+32249295	628	632	NPOD	Disease	MESH:D010300
+32249295	684	694	retronasal	Disease	
+32249295	717	719	PD	Disease	MESH:D010300
+32249295	720	728	patients	Species	9606
+32249295	751	755	NPOD	Disease	MESH:D010300
+32249295	852	854	PD	Disease	MESH:D010300
+32249295	855	863	patients	Species	9606
+32249295	903	905	PD	Disease	MESH:D010300
+32249295	906	914	patients	Species	9606
+32249295	919	923	NPOD	Disease	MESH:D010300
+32249295	924	932	patients	Species	9606
+32249295	1002	1004	PD	Disease	MESH:D010300
+32249295	1009	1013	NPOD	Disease	MESH:D010300
+32249295	1014	1022	patients	Species	9606
+32249295	1057	1061	NPOD	Disease	MESH:D010300
+32249295	1062	1070	patients	Species	9606
+32249295	1119	1121	PD	Disease	MESH:D010300
+32249295	1122	1130	patients	Species	9606
+32249295	1158	1168	retronasal	Disease	
+32249295	1200	1202	PD	Disease	MESH:D010300
+32249295	1237	1241	NPOD	Disease	MESH:D010300
+32249295	1264	1274	retronasal	Disease	
+32249295	1354	1356	PD	Disease	MESH:D010300
+32249295	1357	1365	patients	Species	9606
+32249295	1379	1381	PD	Disease	MESH:D010300
+32249295	1382	1390	patients	Species	9606
+32249295	1478	1488	retronasal	Disease	
+32249295	1539	1541	PD	Disease	MESH:D010300
+32249295	1542	1550	patients	Species	9606
+32249295	1556	1564	patients	Species	9606
+32249295	1570	1574	NPOD	Disease	MESH:D010300
+
+31935728|t|Inability to Smell Peppermint Is Related to Cognitive Decline: A Prospective Community-Based Study.
+31935728|a|BACKGROUND: A few studies have demonstrated the association of poorer olfactory identification (OI) with poorer cognition in population-based cohorts. None of them considered the outcome associated with the inability to smell a certain odor. OBJECTIVE: To verify the hypothesis that at least one specific odor is associated with incident cognitive decline among older adults. METHODS: In the Shanghai Aging Study, a sub-cohort of 948 dementia-free participants who had baseline OI measurements were prospectively followed for 5 years. RESULTS: An inability to smell peppermint (beta = -0.44, p < 0.001), rose (beta = -0.14, p = 0.040), or coffee (beta = -0.37, p = 0.002) was inversely related to the annual rate of change in the Mini Mental State Examination score, and an inability to smell peppermint was associated with a higher risk for incident dementia (hazard ratio 2.67, 95% CI 1.44-4.96) after adjustment for confounders. CONCLUSION: Our study suggests that some odors, especially peppermint, might be considered as a potential predictor for dementia in older populations.
+31935728	13	29	Smell Peppermint	Chemical	-
+31935728	44	61	Cognitive Decline	Disease	MESH:D003072
+31935728	170	194	olfactory identification	Disease	MESH:D000857
+31935728	196	198	OI	Disease	MESH:D000857
+31935728	438	455	cognitive decline	Disease	MESH:D003072
+31935728	534	542	dementia	Disease	MESH:D003704
+31935728	578	580	OI	Disease	MESH:D000857
+31935728	660	676	smell peppermint	Chemical	-
+31935728	887	903	smell peppermint	Chemical	-
+31935728	951	959	dementia	Disease	MESH:D003704
+31935728	1152	1160	dementia	Disease	MESH:D003704
+
+18779429|t|Phantosmias and Parkinson disease.
+18779429|a|BACKGROUND: Impaired olfaction is a common, nonmotor manifestation of Parkinson disease (PD). However, to our knowledge, qualitative olfactory disturbances, such as odor distortions, have not been extensively reported in this condition. OBJECTIVE: To describe 2 patients who reported positive olfactory symptoms preceding typical PD, which were consistent with olfactory hallucinations (phantosmias) in the absence of major smell deficit. DESIGN: Case series. SETTING: University hospital. Patients We describe 2 patients, both seen in 2007, who reported pleasant olfactory hallucinations for several years. MAIN OUTCOME MEASURES: Iodine I 123-labeled ioflupane single-photon emission computed tomography and olfactometric testing results. RESULTS: The (123)I-labeled ioflupane single-photon emission computed tomography showed reduced radiotracer uptake in both striatum more marked in the putamen and on the left side in patient 1 and reduced radiotracer uptake in both putamen more marked on the right side in patient 2. Olfactometric testing showed mild hyposmia in patient 1 and normal function in patient 2. The disappearance of the phantosmias in both patients coincided with the development of typical PD. CONCLUSION: We propose phantosmia as a new premotor manifestation of PD and suggest that qualitative abnormalities of olfaction, rather than the typical smell loss demonstrated in this condition, should be more carefully examined in the prodromal phase of PD.
+18779429	0	11	Phantosmias	Disease	MESH:D000857
+18779429	16	33	Parkinson disease	Disease	MESH:D010300
+18779429	47	65	Impaired olfaction	Disease	MESH:D000857
+18779429	105	122	Parkinson disease	Disease	MESH:D010300
+18779429	124	126	PD	Disease	MESH:D010300
+18779429	297	305	patients	Species	9606
+18779429	365	367	PD	Disease	MESH:D010300
+18779429	396	420	olfactory hallucinations	Disease	MESH:D006212
+18779429	422	433	phantosmias	Disease	MESH:D000857
+18779429	459	472	smell deficit	Disease	MESH:D000857
+18779429	525	533	Patients	Species	9606
+18779429	548	556	patients	Species	9606
+18779429	599	623	olfactory hallucinations	Disease	MESH:D006212
+18779429	666	678	Iodine I 123	Chemical	MESH:C000614958
+18779429	687	696	ioflupane	Chemical	MESH:C519528
+18779429	788	794	(123)I	Chemical	MESH:C000614958
+18779429	803	812	ioflupane	Chemical	MESH:C519528
+18779429	958	965	patient	Species	9606
+18779429	1048	1055	patient	Species	9606
+18779429	1093	1101	hyposmia	Disease	MESH:D000086582
+18779429	1105	1112	patient	Species	9606
+18779429	1138	1145	patient	Species	9606
+18779429	1174	1185	phantosmias	Disease	MESH:D000857
+18779429	1194	1202	patients	Species	9606
+18779429	1245	1247	PD	Disease	MESH:D010300
+18779429	1272	1282	phantosmia	Disease	MESH:D000857
+18779429	1318	1320	PD	Disease	MESH:D010300
+18779429	1350	1376	abnormalities of olfaction	Disease	MESH:D000857
+18779429	1402	1412	smell loss	Disease	MESH:D000086582
+18779429	1505	1507	PD	Disease	MESH:D010300
+18779429	Association	MESH:C000614958	MESH:C519528
+
+35869271|t|Seed-induced Abeta deposition alters neuronal function and impairs olfaction in a mouse model of Alzheimer's disease.
+35869271|a|Alzheimer's disease (AD) is characterized by the accumulation of amyloid-beta (Abeta) which ultimately forms plaques. These Abeta deposits can be induced in APP transgenic mouse models by prion-like seeding. It has been widely accepted that anosmia and hyposmia occur during the early stages of AD, even before cognitive deficits are present. In order to determine the impact of seed-induced Abeta deposits on olfaction, we performed intracerebral injections of seed-competent brain homogenate into the olfactory bulb of young pre-depositing APP transgenic mice. Remarkably, we observed a dramatic olfactory impairment in those mice. Furthermore, the number of newborn neurons as well as the activity of cells in the mitral cell layer was decreased. Notably, exposure to an enriched environment reduced Abeta seeding, vivified neurogenesis and most importantly reversed olfactory deficits. Based on our findings, we conclude that altered neuronal function as a result of induced Abeta pathology might contribute to olfactory dysfunction in AD.
+35869271	13	18	Abeta	Gene	11820
+35869271	82	87	mouse	Species	10090
+35869271	97	116	Alzheimer's disease	Disease	MESH:D000544
+35869271	118	137	Alzheimer's disease	Disease	MESH:D000544
+35869271	139	141	AD	Disease	MESH:D000544
+35869271	197	202	Abeta	Gene	11820
+35869271	242	247	Abeta	Gene	11820
+35869271	290	295	mouse	Species	10090
+35869271	359	366	anosmia	Disease	MESH:D000857
+35869271	371	379	hyposmia	Disease	MESH:D000086582
+35869271	413	415	AD	Disease	MESH:D000544
+35869271	429	447	cognitive deficits	Disease	MESH:D003072
+35869271	510	515	Abeta	Gene	11820
+35869271	675	679	mice	Species	10090
+35869271	716	736	olfactory impairment	Disease	MESH:D000857
+35869271	746	750	mice	Species	10090
+35869271	921	926	Abeta	Gene	11820
+35869271	988	1006	olfactory deficits	Disease	MESH:D000857
+35869271	1097	1102	Abeta	Gene	11820
+35869271	1133	1154	olfactory dysfunction	Disease	MESH:D000857
+35869271	1158	1160	AD	Disease	MESH:D000544
+35869271	Association	MESH:D000544	11820
+35869271	Association	MESH:D000857	11820
+
+11385006|t|Anosmia in dementia is associated with Lewy bodies rather than Alzheimer's pathology.
+11385006|a|OBJECTIVES: To assess olfactory function of patients with dementia. Odour detection ability is impaired in clinical Parkinson's disease. Evidence of impaired detection in patients with clinically diagnosed Alzheimer's disease is inconsistent. No studies of olfaction have been neuropathologically validated. METHODS: The olfactory function of 92 patients with dementia and 94 controls was assessed using a simple bedside test as part of the Oxford Project To Investigate Memory and Ageing (OPTIMA). Neuropathological assessment was made of cortical Lewy bodies and substantia nigra (SN) cell counts and of Alzheimer's disease in all 92 patients, 22 of whom had SN Lewy bodies and 43 of whom had only Alzheimer's disease. RESULTS: Patients with Lewy bodies were more likely to be anosmic than those with Alzheimer's disease or controls. Patients with Alzheimer's disease were not more likely to be anosmic than controls. Nor was anosmia associated with degree of neurofibrillary tangles, as assessed by Braak stage. Among subjects with Lewy bodies, overall cortical Lewy body scores and Lewy body density in the cingulate were higher in those who were anosmic. Consensus clinical criteria for dementia with Lewy bodies had a sensitivity of 64% and specificity of 89%. In the absence of definite Alzheimer's disease, the criteria had sensitivity of 100%. In patients with definite Alzheimer's disease, anosmia was slightly more sensitive (55%) than the consensus criteria (33%). However, the addition of anosmia to the consensus criteria did not improve their overall performance. CONCLUSION: Dementia with Lewy bodies is associated with impaired odour detection. Misdiagnosis may have accounted for some previous reports of impaired odour detection in Alzheimer's disease. Simple but more sensitive tests of anosmia are required if they are to be clinically useful in identifying patients with dementia with Lewy bodies.
+11385006	0	7	Anosmia	Disease	MESH:D000857
+11385006	11	19	dementia	Disease	MESH:D003704
+11385006	39	50	Lewy bodies	Disease	MESH:D020961
+11385006	63	74	Alzheimer's	Disease	MESH:D000544
+11385006	130	138	patients	Species	9606
+11385006	144	152	dementia	Disease	MESH:D003704
+11385006	202	221	Parkinson's disease	Disease	MESH:D010300
+11385006	257	265	patients	Species	9606
+11385006	292	311	Alzheimer's disease	Disease	MESH:D000544
+11385006	432	440	patients	Species	9606
+11385006	446	454	dementia	Disease	MESH:D003704
+11385006	635	646	Lewy bodies	Disease	MESH:D020961
+11385006	692	711	Alzheimer's disease	Disease	MESH:D000544
+11385006	722	730	patients	Species	9606
+11385006	750	761	Lewy bodies	Disease	MESH:D020961
+11385006	786	805	Alzheimer's disease	Disease	MESH:D000544
+11385006	816	824	Patients	Species	9606
+11385006	830	841	Lewy bodies	Disease	MESH:D020961
+11385006	865	872	anosmic	Disease	MESH:D017436
+11385006	889	908	Alzheimer's disease	Disease	MESH:D000544
+11385006	922	930	Patients	Species	9606
+11385006	936	955	Alzheimer's disease	Disease	MESH:D000544
+11385006	983	990	anosmic	Disease	MESH:D017436
+11385006	1014	1021	anosmia	Disease	MESH:D000857
+11385006	1048	1071	neurofibrillary tangles	Disease	MESH:D055956
+11385006	1121	1132	Lewy bodies	Disease	MESH:D020961
+11385006	1237	1244	anosmic	Disease	MESH:D017436
+11385006	1278	1303	dementia with Lewy bodies	Disease	MESH:D020961
+11385006	1380	1399	Alzheimer's disease	Disease	MESH:D000544
+11385006	1442	1450	patients	Species	9606
+11385006	1465	1484	Alzheimer's disease	Disease	MESH:D000544
+11385006	1486	1493	anosmia	Disease	MESH:D000857
+11385006	1588	1595	anosmia	Disease	MESH:D000857
+11385006	1677	1702	Dementia with Lewy bodies	Disease	MESH:D020961
+11385006	1837	1856	Alzheimer's disease	Disease	MESH:D000544
+11385006	1893	1900	anosmia	Disease	MESH:D000857
+11385006	1965	1973	patients	Species	9606
+11385006	1979	2004	dementia with Lewy bodies	Disease	MESH:D020961
+
+17553102|t|Alpha-synuclein pathology in the olfactory pathways of dementia patients.
+17553102|a|Lewy-type pathology is a characteristic of a number of neurodegenerative disorders, including Parkinson's disease and dementia with Lewy bodies. Thus far, the definitive diagnosis of these dementias can only be confirmed at post-mortem. However, it is known that the loss of smell (anosmia) is an early symptom in patients who develop dementia, and the use of the smell test has been proposed as an early diagnostic procedure. The aim of this study was to understand further the extent of Lewy pathology in the olfactory system of patients with neurodegenerative disorders. Post-mortem tissue from 250 subjects was obtained from the OPTIMA brain bank. Five areas of the olfactory pathway were examined by immunolabelling for alpha-synuclein - a major component of Lewy pathology: the olfactory tract/bulb (n = 79), the anterior olfactory nucleus in the lateral olfactory gyrus (n = 193), the region of olfactory projection to the orbito-frontal cortex (n = 225), the hippocampus (n = 236) and the amygdala (n = 201). Results show that Lewy pathology affects different parts of the olfactory pathways differentially, suggesting a specific pattern of development of pathology. Clinical Parkinson's disease is most likely to be identified if the orbito-frontal cortex is affected, while the diagnosis is less likely if the pathology is restricted to the olfactory bulb or tract. These results suggest that pathology in the olfactory bulb and tract occurs prior to clinical signs of Parkinson's disease. Furthermore, the results presented here provide further evidence supporting the possible value of a smell test to aid the clinical diagnosis of neurodegenerative diseases.
+17553102	0	15	Alpha-synuclein	Gene	6622
+17553102	55	63	dementia	Disease	MESH:D003704
+17553102	64	72	patients	Species	9606
+17553102	74	93	Lewy-type pathology	Disease	MESH:D005598
+17553102	129	156	neurodegenerative disorders	Disease	MESH:D019636
+17553102	168	187	Parkinson's disease	Disease	MESH:D010300
+17553102	192	217	dementia with Lewy bodies	Disease	MESH:D020961
+17553102	263	272	dementias	Disease	MESH:D003704
+17553102	341	354	loss of smell	Disease	MESH:D000086582
+17553102	356	363	anosmia	Disease	MESH:D000857
+17553102	388	396	patients	Species	9606
+17553102	409	417	dementia	Disease	MESH:D003704
+17553102	563	577	Lewy pathology	Disease	MESH:D005598
+17553102	605	613	patients	Species	9606
+17553102	619	646	neurodegenerative disorders	Disease	MESH:D019636
+17553102	799	814	alpha-synuclein	Gene	6622
+17553102	838	852	Lewy pathology	Disease	MESH:D005598
+17553102	1109	1123	Lewy pathology	Disease	MESH:D005598
+17553102	1258	1277	Parkinson's disease	Disease	MESH:D010300
+17553102	1553	1572	Parkinson's disease	Disease	MESH:D010300
+17553102	1718	1744	neurodegenerative diseases	Disease	MESH:D019636
+17553102	Association	MESH:D003704	6622
+17553102	Association	MESH:D005598	6622
+
+26003671|t|Olfaction deterioration in cognitive disorders in the elderly.
+26003671|a|BACKGROUND: Parkinson's and Alzheimer's diseases are widespread neurodegenerative pathologies. Parkinson's disease affects about 1 % of the population over the age of 65 years, while Alzheimer is considered the most common cause of dementia, with an annual incidence of 1 % in persons aged 65 years. It has been demonstrated that both these neurodegenerative diseases are associated with smell dysfunction. AIM: The aim of the present review is to describe briefly modern olfactory evaluation tools as well as the importance of olfactory sensitivity screening in the elderly, especially where cognitive disorders, such as Alzheimer's or Parkinson's diseases, are suspected. METHODS: A brief literature review focusing on the basic principle of smell tests is illustrated together with their application in elderly patients affected by cognitive disorders, in particular Parkinson's and Alzheimer's diseases. RESULTS/CONCLUSIONS: Alzheimer's and Parkinson's diseases are both neurodegenerative disorders typically found in the elderly. As both diseases are characterized by the early presence of dysosmia, simple validated smell tests could very well help clinicians in the early diagnosis of these neuropathological conditions. Elderly patients complaining of smell loss and found to be dysosmic, by means of validated olfactory tests, should be neurologically evaluated as early as possible to detect slight motor abnormalities in an at-risk population.
+26003671	0	23	Olfaction deterioration	Disease	MESH:D000857
+26003671	27	46	cognitive disorders	Disease	MESH:D003072
+26003671	75	111	Parkinson's and Alzheimer's diseases	Disease	MESH:D010300
+26003671	127	156	neurodegenerative pathologies	Disease	MESH:D019636
+26003671	158	177	Parkinson's disease	Disease	MESH:D010300
+26003671	246	255	Alzheimer	Disease	MESH:D000544
+26003671	295	303	dementia	Disease	MESH:D003704
+26003671	404	430	neurodegenerative diseases	Disease	MESH:D019636
+26003671	451	468	smell dysfunction	Disease	MESH:D000857
+26003671	656	675	cognitive disorders	Disease	MESH:D003072
+26003671	685	696	Alzheimer's	Disease	MESH:D000544
+26003671	700	720	Parkinson's diseases	Disease	MESH:D010300
+26003671	877	885	patients	Species	9606
+26003671	898	917	cognitive disorders	Disease	MESH:D003072
+26003671	933	969	Parkinson's and Alzheimer's diseases	Disease	MESH:D010300
+26003671	992	1028	Alzheimer's and Parkinson's diseases	Disease	MESH:D010300
+26003671	1038	1065	neurodegenerative disorders	Disease	MESH:D019636
+26003671	1158	1166	dysosmia	Disease	MESH:D000857
+26003671	1261	1289	neuropathological conditions	Disease	MESH:D019636
+26003671	1299	1307	patients	Species	9606
+26003671	1323	1333	smell loss	Disease	MESH:D000086582
+26003671	1350	1358	dysosmic	Disease	
+26003671	1472	1491	motor abnormalities	Disease	MESH:D000014
+
+31531013|t|Sudden Intrabulbar Amyloid Increase Simultaneously Disrupts Olfactory Bulb Oscillations and Odor Detection.
+31531013|a|There seems to be a correlation between soluble amyloid beta protein (Abeta) accumulation in the main olfactory bulb (OB) and smell deterioration in both Alzheimer's disease (AD) patients and animal models. Moreover, this loss of smell appears to be related to alterations in neural network activity in several olfactory-related circuits, including the OB, as has been observed in anesthetized animals and brain slices. It is possible that there is a correlation between these two pathological phenomena, but a direct and simultaneous evaluation of the acute and direct effect of Abeta on OB activity while animals are actually smelling has not been performed. Thus, here, we tested the effects of acute intrabulbar injection of Abeta at a low dose (200 pmol) on the OB local field potential before and during the presence of a hidden piece of smelly food. Our results show that Abeta decreases the power of OB network activity while impairing the animal's ability to reach the hidden food. We found a strong relationship between the power of the OB oscillations and the correlation between OBs and the olfactory detection test scores. These findings provide a direct link between Abeta-induced OB network dysfunction and smell loss in rodents, which could be extrapolated to AD patients.
+31531013	178	183	Abeta	Gene	351
+31531013	234	239	smell	Disease	MESH:D000857
+31531013	262	281	Alzheimer's disease	Disease	MESH:D000544
+31531013	283	285	AD	Disease	MESH:D000544
+31531013	287	295	patients	Species	9606
+31531013	330	343	loss of smell	Disease	MESH:D000086582
+31531013	688	693	Abeta	Gene	351
+31531013	837	842	Abeta	Gene	351
+31531013	987	992	Abeta	Gene	351
+31531013	1289	1294	Abeta	Gene	351
+31531013	1303	1325	OB network dysfunction	Disease	MESH:D000857
+31531013	1330	1340	smell loss	Disease	MESH:D000086582
+31531013	1384	1386	AD	Disease	MESH:D000544
+31531013	1387	1395	patients	Species	9606
+31531013	Association	MESH:D000086582	351
+31531013	Association	MESH:D000544	351
+31531013	Positive_Correlation	MESH:D000857	351
+
+7324865|t|[Olfaction and dementia. Preliminary results of a clinical and experimental study with N-propanol].
+7324865|a|Various reports concerning the oro-alimentary ducts of dements and increasing arguments in favour of a new etiopathogenic hypothesis for Pick's disease, involving impaired zinc metabolism and histological lesions partly linked with the hodology of the olfactory system, lie at the origin of our present clinical interest in olfaction. In a first stage, using a technique based on dilution with N-propanol, we observed certain conditions permitting an evaluation of the olfactory capacities of patients with Pick's disease, senile plaque dementia and neurofibrillary degenerescense. There does not seem to be a decline in olfaction with age. Olfactory capacities in the two forms of dementia studied were distinctly inferior to those of non-dements. Olfactory habituation was more marked, especially in Pick's disease where there were also paradoxical responses which seemed to form part of a more general change in reaction to stimulus. In senile plaque dementia and neurofibrillary degenerescence the response to olfactory stimulus declines with dilution of N-propanol and lesional extension. Observation of recorded parameters (EEG, psycho-galvanic reflex, ocular movement, breathing) is useful in Pick's disease and may be difficult in senile plaque dementia and neurofibrillary degenerescence. Olfactory capacities appear to constitute an additional criterion on which to base a diagnosis of dementia. They could be used to help establish the neuro-biological bases of certain types of demential behaviour and to observe the progress of tentative therapies.
+7324865	1	10	Olfaction	Disease	MESH:D000857
+7324865	15	23	dementia	Disease	MESH:D003704
+7324865	87	97	N-propanol	Chemical	MESH:D000433
+7324865	237	251	Pick's disease	Disease	MESH:D020774
+7324865	424	433	olfaction	Disease	MESH:D000857
+7324865	494	504	N-propanol	Chemical	MESH:D000433
+7324865	593	601	patients	Species	9606
+7324865	607	621	Pick's disease	Disease	MESH:D020774
+7324865	623	645	senile plaque dementia	Disease	MESH:D058225
+7324865	650	680	neurofibrillary degenerescense	Disease	MESH:D055956
+7324865	721	730	olfaction	Disease	MESH:D000857
+7324865	782	790	dementia	Disease	MESH:D003704
+7324865	902	916	Pick's disease	Disease	MESH:D020774
+7324865	1040	1062	senile plaque dementia	Disease	MESH:D058225
+7324865	1159	1169	N-propanol	Chemical	MESH:D000433
+7324865	1300	1314	Pick's disease	Disease	MESH:D020774
+7324865	1339	1361	senile plaque dementia	Disease	MESH:D058225
+7324865	1496	1504	dementia	Disease	MESH:D003704
+7324865	1590	1609	demential behaviour	Disease	MESH:D001523
+7324865	Association	MESH:D000433	MESH:D058225
+
+25633674|t|Olfactory cortex degeneration in Alzheimer's disease and mild cognitive impairment.
+25633674|a|BACKGROUND: Olfactory deficits are prevalent in patients with Alzheimer's disease (AD) and mild cognitive impairment (MCI). These symptoms precede clinical onset of cognitive and memory deficits and coincide with AD pathology preferentially in the central olfactory structures, suggesting a potential biomarker for AD early detection and progression. OBJECTIVE: Therefore, we tested the hypothesis that structural degeneration of the primary olfactory cortex (POC) could be detected in AD as well as in MCI patients and would be correlated with olfactory functional magnetic resonance imaging (fMRI) alterations, reflecting loss of olfactory cortex activity. METHODS: Total structural volumes and fMRI activation volumes of the POC and hippocampus were measured along with olfactory and cognitive behavioral tests in 27 cognitively normal (CN), 21 MCI, and 15 AD subjects. RESULTS: Prominent atrophy in the POC and hippocampus was found in both AD and MCI subjects and correlated with behavioral measurements. While behavioral and volumetric measurements showed a gradual decline from CN to MCI to AD, olfactory activation volume in the POC and hippocampus showed a steeper decline in the MCI group compared to corresponding tissue volume, resembling the AD group. CONCLUSIONS: Decline in olfactory activity was correlated with the AD structural degeneration in the POC. A more prominent olfactory activity deficit than that of behavioral and tissue volume measurements was shown in the MCI stage. Olfactory fMRI may thus provide an earlier and more sensitive measure of functional neurodegeneration in AD and MCI patients.
+25633674	0	29	Olfactory cortex degeneration	Disease	MESH:D000857
+25633674	33	52	Alzheimer's disease	Disease	MESH:D000544
+25633674	62	82	cognitive impairment	Disease	MESH:D003072
+25633674	96	114	Olfactory deficits	Disease	MESH:D000857
+25633674	132	140	patients	Species	9606
+25633674	146	165	Alzheimer's disease	Disease	MESH:D000544
+25633674	167	169	AD	Disease	MESH:D000544
+25633674	180	200	cognitive impairment	Disease	MESH:D003072
+25633674	202	205	MCI	Disease	MESH:D060825
+25633674	249	278	cognitive and memory deficits	Disease	MESH:D003072
+25633674	297	299	AD	Disease	MESH:D000544
+25633674	399	401	AD	Disease	MESH:D000544
+25633674	498	542	degeneration of the primary olfactory cortex	Disease	MESH:D013132
+25633674	544	547	POC	Disease	MESH:D000857
+25633674	570	572	AD	Disease	MESH:D000544
+25633674	587	590	MCI	Disease	MESH:D060825
+25633674	591	599	patients	Species	9606
+25633674	716	732	olfactory cortex	Disease	MESH:D000857
+25633674	812	815	POC	Disease	MESH:D000857
+25633674	932	935	MCI	Disease	MESH:D060825
+25633674	944	946	AD	Disease	MESH:D000544
+25633674	976	990	atrophy in the	Disease	MESH:D001284
+25633674	991	994	POC	Disease	MESH:D000857
+25633674	1029	1031	AD	Disease	MESH:D000544
+25633674	1036	1039	MCI	Disease	MESH:D060825
+25633674	1175	1178	MCI	Disease	MESH:D060825
+25633674	1182	1184	AD	Disease	MESH:D000544
+25633674	1221	1224	POC	Disease	MESH:D000857
+25633674	1273	1276	MCI	Disease	MESH:D060825
+25633674	1339	1341	AD	Disease	MESH:D000544
+25633674	1416	1442	AD structural degeneration	Disease	MESH:D000544
+25633674	1450	1453	POC	Disease	MESH:D000857
+25633674	1472	1498	olfactory activity deficit	Disease	MESH:D000857
+25633674	1571	1574	MCI	Disease	MESH:D060825
+25633674	1666	1683	neurodegeneration	Disease	MESH:D019636
+25633674	1687	1689	AD	Disease	MESH:D000544
+25633674	1694	1697	MCI	Disease	MESH:D060825
+25633674	1698	1706	patients	Species	9606
+
+29134611|t|Exploring white matter microstructure and olfaction dysfunction in early parkinson disease: diffusion MRI reveals new insight.
+29134611|a|Olfaction dysfunction is considered as a robust marker of prodromal Parkinson disease (PD). Measurement of olfaction function as a screening test is unsatisfactory due to long lead time interval and low specificity for detection of PD. Use of imaging markers might yield more accurate predictive values and provide bases for combined use of imaging and clinical markers for early PD. Diffusion MRI connectometry was conducted on 85 de novo PD patients in and 36 healthy controls to find: first, white matter tracts with significant difference in quantitative anisotropy between PD groups with various degrees of olfaction dysfunction and second, second fibers with correlation with University of Pennsylvania Smell Identification Test (UPSIT) score in each group using a multiple regression analysis considering age, sex, GDS and MoCA score. Local connectomes were determined in seven of all the possible comparisons, correcting for false discovery rate (FDR). PD patients with anosmia and normal olfaction had the highest number of fibers with decreased connectivity in left inferior longitudinal fasciculus, bilateral fornix, bilateral middle cerebellar peduncle (MCP), bilateral cingulum, bilateral corticospinal tract (CST) and body, genu and splenium of corpus callosum (CC) (FDR = 0.0013). In multiple regression analysis, connectivity in the body, genu and splenium of CC and bilateral fornix had significant negative correlation (FDR between 0.019 and 0.083), and bilateral cingulum and MCP had significant positive correlation (FDR between 0.022 and 0.092) with UPSIT score. White matter connectivity in healthy controls could not be predicted by UPSIT score using the same model. The results of this study provide compelling evidence that microstructural degenerative changes in these areas underlie the clinical phenotype of prodromal olfaction dysfunction in PD and that diffusion parameters of these areas might be able to serve as signature markers for early detection of PD. This is the first report that confirms a discriminative role for UPSIT score in identifying PD specific changes in white matter microstructure. Our results open a window to identify microstructural signatures of prodromal PD in white matter.
+29134611	42	63	olfaction dysfunction	Disease	MESH:D000857
+29134611	73	90	parkinson disease	Disease	MESH:D010300
+29134611	127	148	Olfaction dysfunction	Disease	MESH:D000857
+29134611	195	212	Parkinson disease	Disease	MESH:D010300
+29134611	214	216	PD	Disease	MESH:D010300
+29134611	359	361	PD	Disease	MESH:D010300
+29134611	507	509	PD	Disease	MESH:D010300
+29134611	567	569	PD	Disease	MESH:D010300
+29134611	570	578	patients	Species	9606
+29134611	705	707	PD	Disease	MESH:D010300
+29134611	739	760	olfaction dysfunction	Disease	MESH:D000857
+29134611	1088	1090	PD	Disease	MESH:D010300
+29134611	1091	1099	patients	Species	9606
+29134611	1105	1112	anosmia	Disease	MESH:D000857
+29134611	1973	1994	olfaction dysfunction	Disease	MESH:D000857
+29134611	1998	2000	PD	Disease	MESH:D010300
+29134611	2113	2115	PD	Disease	MESH:D010300
+29134611	2209	2211	PD	Disease	MESH:D010300
+29134611	2339	2341	PD	Disease	MESH:D010300
+
+26025012|t|Selective cognitive and psychiatric manifestations in Wolfram Syndrome.
+26025012|a|BACKGROUND: Wolfram Syndrome (WFS) is known to involve diabetes mellitus, diabetes insipidus, optic nerve atrophy, vision loss, hearing impairment, motor abnormalities, and neurodegeneration, but has been less clearly linked to cognitive, sleep, and psychiatric abnormalities. We sought to determine whether these abnormalities are present in children, adolescents, and young adults with WFS compared to age- and gender-matched individuals with and without type 1 diabetes using standardized measures. METHODS: Individuals with genetically-confirmed WFS (n = 19, ages 7-27) were compared to age- and gender- equivalent groups of individuals with type 1 diabetes (T1DM; n = 25), and non-diabetic healthy controls (HC: n = 25). Cognitive performance across multiple domains (verbal intelligence, spatial reasoning, memory, attention, smell identification) was assessed using standardized tests. Standardized self- and parent-report questionnaires on psychiatric symptoms and sleep disturbances were acquired from all groups and an unstructured psychiatric interview was performed within only the WFS group. RESULTS: The three groups were similar demographically (age, gender, ethnicity, parental IQ). WFS and T1DM had similar duration of diabetes but T1DM had higher HbA1C levels than WFS and as expected both groups had higher levels than HC. The WFS group was impaired on smell identification and reported sleep quality, but was not impaired in any other cognitive or self-reported psychiatric domain. In fact, the WFS group performed better than the other two groups on selected memory and attention tasks. However, based upon a clinical evaluation of only WFS patients, we found that psychiatric and behavioral problems were present and consisted primarily of anxiety and hypersomnolence. CONCLUSIONS: This study found that cognitive performance and psychological health were relatively preserved WFS patients, while smell and sleep abnormalities manifested in many of the WFS patients. These findings contradict past case and retrospective reports indicating significant cognitive and psychiatric impairment in WFS. While many of these patients were diagnosed with anxiety and hypersomnolence, self-reported measures of psychiatric symptoms indicated that the symptoms were not of grave concern to the patients. It may be that cognitive and psychiatric issues become more prominent later in life and/or in later stages of the disease, but this requires standardized assessment and larger samples to determine. In the relatively early stages of WFS, smell and sleep-related symptoms may be useful biomarkers of disease and should be monitored longitudinally to determine if they are good markers of progression as well. TRIAL REGISTRATION: Current Clinicaltrials.gov Trial NCT02455414 .
+26025012	10	35	cognitive and psychiatric	Disease	MESH:D001523
+26025012	54	70	Wolfram Syndrome	Disease	MESH:D014929
+26025012	84	100	Wolfram Syndrome	Disease	MESH:D014929
+26025012	102	105	WFS	Disease	MESH:D014929
+26025012	127	144	diabetes mellitus	Disease	MESH:D003920
+26025012	146	164	diabetes insipidus	Disease	MESH:D003919
+26025012	166	185	optic nerve atrophy	Disease	MESH:D009896
+26025012	187	198	vision loss	Disease	MESH:D014786
+26025012	200	218	hearing impairment	Disease	MESH:D034381
+26025012	220	239	motor abnormalities	Disease	MESH:D000014
+26025012	245	262	neurodegeneration	Disease	MESH:D019636
+26025012	300	309	cognitive	Disease	MESH:D003072
+26025012	311	316	sleep	Disease	MESH:D012893
+26025012	322	347	psychiatric abnormalities	Disease	MESH:D001523
+26025012	460	463	WFS	Disease	MESH:D014929
+26025012	529	544	type 1 diabetes	Disease	MESH:D003922
+26025012	622	625	WFS	Disease	MESH:D014929
+26025012	718	733	type 1 diabetes	Disease	MESH:D003922
+26025012	735	739	T1DM	Disease	
+26025012	798	807	Cognitive	Disease	MESH:D003072
+26025012	904	909	smell	Disease	MESH:D000857
+26025012	1020	1031	psychiatric	Disease	MESH:D001523
+26025012	1045	1063	sleep disturbances	Disease	MESH:D012893
+26025012	1114	1125	psychiatric	Disease	MESH:D001523
+26025012	1166	1169	WFS	Disease	MESH:D014929
+26025012	1271	1274	WFS	Disease	MESH:D014929
+26025012	1279	1283	T1DM	Disease	
+26025012	1308	1316	diabetes	Disease	MESH:D003920
+26025012	1321	1325	T1DM	Disease	
+26025012	1355	1358	WFS	Disease	MESH:D014929
+26025012	1418	1421	WFS	Disease	MESH:D014929
+26025012	1444	1449	smell	Disease	MESH:D000857
+26025012	1478	1483	sleep	Disease	MESH:D012893
+26025012	1527	1536	cognitive	Disease	MESH:D003072
+26025012	1554	1565	psychiatric	Disease	MESH:D001523
+26025012	1587	1590	WFS	Disease	MESH:D014929
+26025012	1730	1733	WFS	Disease	MESH:D014929
+26025012	1734	1742	patients	Species	9606
+26025012	1758	1793	psychiatric and behavioral problems	Disease	MESH:D001523
+26025012	1834	1841	anxiety	Disease	MESH:D001007
+26025012	1846	1861	hypersomnolence	Disease	MESH:D006970
+26025012	1898	1907	cognitive	Disease	MESH:D003072
+26025012	1971	1974	WFS	Disease	MESH:D014929
+26025012	1975	1983	patients	Species	9606
+26025012	1991	2020	smell and sleep abnormalities	Disease	MESH:D000857
+26025012	2047	2050	WFS	Disease	MESH:D014929
+26025012	2051	2059	patients	Species	9606
+26025012	2146	2182	cognitive and psychiatric impairment	Disease	MESH:D003072
+26025012	2186	2189	WFS	Disease	MESH:D014929
+26025012	2211	2219	patients	Species	9606
+26025012	2240	2247	anxiety	Disease	MESH:D001007
+26025012	2252	2267	hypersomnolence	Disease	MESH:D006970
+26025012	2295	2306	psychiatric	Disease	MESH:D001523
+26025012	2377	2385	patients	Species	9606
+26025012	2402	2427	cognitive and psychiatric	Disease	MESH:D001523
+26025012	2619	2622	WFS	Disease	MESH:D014929
+26025012	2624	2629	smell	Disease	MESH:D000857
+26025012	2634	2656	sleep-related symptoms	Disease	MESH:D020183
+
+27772753|t|Antioxidant and inflammatory biomarkers for the identification of prodromal Parkinson's disease.
+27772753|a|OBJECTIVES: We explored the role of oxidative stress and inflammatory molecules as potential Parkinson (PD) biomarkers and correlated biological with non-motor abnormalities (olfactory impairment and dysautonomia), in patients with idiopathic REM behavior disorder (iRBD) (prodromal PD) and established PD. METHODS: We recruited 11 iRBD and 15 patients with idiopathic PD (Hohen&Yahr 1-3, on L-DOPA and dopamine agonists combination therapy) and 12 age- and sex-matched controls (CTRL). We measured total olfactory score (TOS), autonomic function [deep breathing (DB), lying to standing (LS) and Valsalva manoeuvre (VM) ratios], blood reduced glutathione (Br-GSH), oxidative stress and inflammatory markers (neopterin). RESULTS: Anosmia was similarly prevalent in iRBD (36%) and PD (33%) patients, but absent in CTRL. Orthostatic hypotension was more common among iRBD (73%) and PD (60%) than in CTRL (25%). By univariable ordinal logistic regression, TOS, Br-GSH, LS and VM ratio worsened from CTRL to iRBD and PD groups. Only reduced Br-GSH levels (p=0.037, OR=0.994; 95%CI 0.988-1.000) were independently associated to PD. TOS correlated with Br-GSH (R=0.34, p=0.037), VM ratio (R=0.43, p=0.015), and neopterin (rho=0.39, p=0.016). CONCLUSIONS: Reduced systemic antioxidant capacity is found in prodromal and overt PD and may represent, in association with olfactory loss and cardiovascular dysautonomia, a useful biomarker for an integrative, early diagnosis of PD.
+27772753	16	28	inflammatory	Disease	MESH:D007249
+27772753	76	95	Parkinson's disease	Disease	MESH:D010300
+27772753	154	166	inflammatory	Disease	MESH:D007249
+27772753	190	199	Parkinson	Disease	MESH:D010302
+27772753	201	203	PD	Disease	MESH:D010300
+27772753	251	270	motor abnormalities	Disease	MESH:D000014
+27772753	272	292	olfactory impairment	Disease	MESH:D000857
+27772753	297	309	dysautonomia	Disease	MESH:D054969
+27772753	315	323	patients	Species	9606
+27772753	329	361	idiopathic REM behavior disorder	Disease	MESH:D020187
+27772753	363	367	iRBD	Disease	MESH:D020187
+27772753	380	382	PD	Disease	MESH:D010300
+27772753	400	402	PD	Disease	MESH:D010300
+27772753	429	433	iRBD	Disease	MESH:D020187
+27772753	441	449	patients	Species	9606
+27772753	466	468	PD	Disease	MESH:D010300
+27772753	489	495	L-DOPA	Chemical	MESH:D007980
+27772753	500	508	dopamine	Chemical	MESH:D004298
+27772753	740	751	glutathione	Chemical	MESH:D005978
+27772753	753	759	Br-GSH	Chemical	-
+27772753	783	795	inflammatory	Disease	MESH:D007249
+27772753	805	814	neopterin	Chemical	MESH:D019798
+27772753	826	833	Anosmia	Disease	MESH:D000857
+27772753	861	865	iRBD	Disease	MESH:D020187
+27772753	876	878	PD	Disease	MESH:D010300
+27772753	885	893	patients	Species	9606
+27772753	915	938	Orthostatic hypotension	Disease	MESH:D007024
+27772753	961	965	iRBD	Disease	MESH:D020187
+27772753	976	978	PD	Disease	MESH:D010300
+27772753	1054	1060	Br-GSH	Chemical	-
+27772753	1100	1104	iRBD	Disease	MESH:D020187
+27772753	1109	1111	PD	Disease	MESH:D010300
+27772753	1133	1139	Br-GSH	Chemical	-
+27772753	1219	1221	PD	Disease	MESH:D010300
+27772753	1243	1249	Br-GSH	Chemical	-
+27772753	1301	1310	neopterin	Chemical	MESH:D019798
+27772753	1415	1417	PD	Disease	MESH:D010300
+27772753	1457	1471	olfactory loss	Disease	MESH:D000857
+27772753	1476	1503	cardiovascular dysautonomia	Disease	MESH:D002318
+27772753	1563	1565	PD	Disease	MESH:D010300
+27772753	Association	MESH:D019798	MESH:D007249
+27772753	Negative_Correlation	MESH:D007980	MESH:D010300
+27772753	Association	MESH:D004298	MESH:D007980
+
+24554308|t|Olfactory bulb involvement in neurodegenerative diseases.
+24554308|a|Olfactory dysfunction is a common and early symptom of many neurodegenerative diseases, particularly of Parkinson's disease and other synucleinopathies, Alzheimer's disease (AD), and mild cognitive impairment heralding its progression to dementia. The neuropathologic changes of olfactory dysfunction in neurodegenerative diseases may involve the olfactory epithelium, olfactory bulb/tract, primary olfactory cortices, and their secondary targets. Olfactory dysfunction is related to deposition of pathological proteins, alpha-synuclein, hyperphosphorylated tau protein, and neurofilament protein in these areas, featured by neurofibrillary tangles, Lewy bodies and neurites inducing a complex cascade of molecular processes including oxidative damage, neuroinflammation, and cytosolic disruption of cellular processes leading to cell death. Damage to cholinergic, serotonergic, and noradrenergic systems is likely involved, since such damage is most marked in those diseases with severe anosmia. Recent studies of olfactory dysfunction have focused its potential as an early biomarker for the diagnosis of neurodegenerative disorders and their disease progression. Here, we summarize the current knowledge on neuropathological and pathophysiological changes of the olfactory system in the most frequent neurodegenerative diseases, in particular AD and synucleinopathies. We also present neuropathological findings in the olfactory bulb and tract in a large autopsy cohort (n = 536, 57.8 % female, mean age 81.3 years). The severity of olfactory bulb HPtau, Abeta, and alphaSyn pathology correlated and increased significantly (P < 0.001) with increasing neuritic Braak stages, Thal Abeta phases, and cerebral Lewy body pathology, respectively. Hence, further studies are warranted to investigate the potential role of olfactory biopsies (possibly restricted to the olfactory epithelium) in the diagnostic process of neurodegenerative diseases in particular in clinical drug trials to identify subjects showing early, preclinical stages of neurodegeneration and to stratify clinically impaired cohorts according to the underlying cerebral neuropathology.
+24554308	30	56	neurodegenerative diseases	Disease	MESH:D019636
+24554308	58	79	Olfactory dysfunction	Disease	MESH:D000857
+24554308	118	144	neurodegenerative diseases	Disease	MESH:D019636
+24554308	162	181	Parkinson's disease	Disease	MESH:D010300
+24554308	192	209	synucleinopathies	Disease	MESH:D000080874
+24554308	211	230	Alzheimer's disease	Disease	MESH:D000544
+24554308	232	234	AD	Disease	MESH:D000544
+24554308	246	266	cognitive impairment	Disease	MESH:D003072
+24554308	296	304	dementia	Disease	MESH:D003704
+24554308	337	358	olfactory dysfunction	Disease	MESH:D000857
+24554308	362	388	neurodegenerative diseases	Disease	MESH:D019636
+24554308	506	527	Olfactory dysfunction	Disease	MESH:D000857
+24554308	579	594	alpha-synuclein	Gene	6622
+24554308	683	706	neurofibrillary tangles	Disease	MESH:D055956
+24554308	708	719	Lewy bodies	Disease	MESH:D020961
+24554308	811	828	neuroinflammation	Disease	MESH:D000090862
+24554308	1046	1053	anosmia	Disease	MESH:D000857
+24554308	1073	1094	olfactory dysfunction	Disease	MESH:D000857
+24554308	1165	1192	neurodegenerative disorders	Disease	MESH:D019636
+24554308	1362	1388	neurodegenerative diseases	Disease	MESH:D019636
+24554308	1404	1406	AD	Disease	MESH:D000544
+24554308	1411	1428	synucleinopathies	Disease	MESH:D000080874
+24554308	1616	1621	Abeta	Gene	351
+24554308	1627	1635	alphaSyn	Gene	6622
+24554308	1741	1746	Abeta	Gene	351
+24554308	1759	1777	cerebral Lewy body	Disease	MESH:D020961
+24554308	1975	2001	neurodegenerative diseases	Disease	MESH:D019636
+24554308	2098	2115	neurodegeneration	Disease	MESH:D019636
+24554308	Association	MESH:D000857	6622
+24554308	Association	MESH:D019636	351
+24554308	Association	MESH:D000857	351
+24554308	Association	MESH:D000544	351
+24554308	Association	MESH:D020961	351
+24554308	Association	MESH:D020961	6622
+
+38580172|t|Potential Convergence of Olfactory Dysfunction in Parkinson's Disease and COVID-19: The Role of Neuroinflammation.
+38580172|a|Parkinson's disease (PD) is a prevalent neurodegenerative disorder that affects 7-10 million individuals worldwide. A common early symptom of PD is olfactory dysfunction (OD), and more than 90% of PD patients suffer from OD. Recent studies have highlighted a high incidence of OD in patients with SARS-CoV-2 infection. This review investigates the potential convergence of OD in PD and COVID-19, particularly focusing on the mechanisms by which neuroinflammation contributes to OD and neurological events. Starting from our fundamental understanding of the olfactory bulb, we summarize the clinical features of OD and pathological features of the olfactory bulb from clinical cases and autopsy reports in PD patients. We then examine SARS-CoV-2-induced olfactory bulb neuropathology and OD and emphasize the SARS-CoV-2-induced neuroinflammatory cascades potentially leading to PD manifestations. By activating microglia and astrocytes, as well as facilitating the aggregation of alpha-synuclein, SARS-CoV-2 could contribute to the onset or exacerbation of PD. We also discuss the possible contributions of NF-kappaB, the NLRP3 inflammasome, and the JAK/STAT, p38 MAPK, TLR4, IL-6/JAK2/STAT3 and cGAS-STING signaling pathways. Although olfactory dysfunction in patients with COVID-19 may be reversible, it is challenging to restore OD in patients with PD. With the emergence of new SARS-CoV-2 variants and the recurrence of infections, we call for continued attention to the intersection between PD and SARS-CoV-2 infection, especially from the perspective of OD.
+38580172	25	46	Olfactory Dysfunction	Disease	MESH:D000857
+38580172	50	69	Parkinson's Disease	Disease	MESH:D010300
+38580172	74	82	COVID-19	Disease	MESH:D000086382
+38580172	96	113	Neuroinflammation	Disease	MESH:D000090862
+38580172	115	134	Parkinson's disease	Disease	MESH:D010300
+38580172	136	138	PD	Disease	MESH:D010300
+38580172	155	181	neurodegenerative disorder	Disease	MESH:D019636
+38580172	257	259	PD	Disease	MESH:D010300
+38580172	263	284	olfactory dysfunction	Disease	MESH:D000857
+38580172	286	288	OD	Disease	MESH:D000857
+38580172	312	314	PD	Disease	MESH:D010300
+38580172	315	323	patients	Species	9606
+38580172	336	338	OD	Disease	MESH:D000857
+38580172	392	394	OD	Disease	MESH:D000857
+38580172	398	406	patients	Species	9606
+38580172	412	432	SARS-CoV-2 infection	Disease	MESH:D000086382
+38580172	488	490	OD	Disease	MESH:D000857
+38580172	494	496	PD	Disease	MESH:D010300
+38580172	501	509	COVID-19	Disease	MESH:D000086382
+38580172	560	577	neuroinflammation	Disease	MESH:D000090862
+38580172	593	595	OD	Disease	MESH:D000857
+38580172	726	728	OD	Disease	MESH:D000857
+38580172	820	822	PD	Disease	MESH:D010300
+38580172	823	831	patients	Species	9606
+38580172	849	859	SARS-CoV-2	Species	2697049
+38580172	883	897	neuropathology	Disease	MESH:D009422
+38580172	902	904	OD	Disease	MESH:D000857
+38580172	923	933	SARS-CoV-2	Species	2697049
+38580172	942	959	neuroinflammatory	Disease	MESH:D000090862
+38580172	992	994	PD	Disease	MESH:D010300
+38580172	1094	1109	alpha-synuclein	Gene	6622
+38580172	1111	1121	SARS-CoV-2	Species	2697049
+38580172	1171	1173	PD	Disease	MESH:D010300
+38580172	1221	1230	NF-kappaB	Gene	4790
+38580172	1236	1241	NLRP3	Gene	114548
+38580172	1284	1288	TLR4	Gene	7099
+38580172	1290	1294	IL-6	Gene	3569
+38580172	1295	1299	JAK2	Gene	3717
+38580172	1300	1305	STAT3	Gene	6774
+38580172	1310	1314	cGAS	Gene	115004
+38580172	1315	1320	STING	Gene	340061
+38580172	1350	1371	olfactory dysfunction	Disease	MESH:D000857
+38580172	1375	1383	patients	Species	9606
+38580172	1389	1397	COVID-19	Disease	MESH:D000086382
+38580172	1446	1448	OD	Disease	MESH:D000857
+38580172	1452	1460	patients	Species	9606
+38580172	1466	1468	PD	Disease	MESH:D010300
+38580172	1496	1506	SARS-CoV-2	Species	2697049
+38580172	1538	1548	infections	Disease	MESH:D007239
+38580172	1610	1612	PD	Disease	MESH:D010300
+38580172	1617	1637	SARS-CoV-2 infection	Disease	MESH:D000086382
+38580172	1674	1676	OD	Disease	MESH:D000857
+38580172	Association	115004	340061
+
+30007334|t|Diagnostic Accuracy, Item Analysis and Age Effects of the UPSIT Spanish Version in Parkinson's Disease.
+30007334|a|OBJECTIVE: The University of Pennsylvania Smell Identification Test (UPSIT) is the most commonly used test to detect olfactory impairment in Parkinson's disease (PD), but the cut-off score for clinical purposes is often difficult to establish because of age and sex effects. The current work aims to study the sensitivity and specificity of the UPSIT Spanish version and its accuracy in discriminating PD patients at different age groups from healthy controls (HC), and to perform an item analysis. METHOD: Ninety-seven non-demented PD patients and 65 HC were assessed with the UPSIT Spanish version. Sensitivity, specificity, and diagnostic accuracy for PD were calculated. Multiple regression analysis was used to define predictors of UPSIT scores. RESULTS: Using the normative cut-off score for anosmia (<=18), the UPSIT showed a sensitivity of 54.6% with a specificity of 100.0% for PD. We found that, using the UPSIT cut-off score of <=25, sensitivity was 81.4% and specificity 84.6% (area under the receiver operating characteristic curve = 0.908). Diagnosis and age were good predictors of UPSIT scores (B = -10.948; p < .001; B = -0.203; p < .001). When optimal cut-off scores were considered according to age ranges (<=60, 61-70, and >=71), sensitivity and specificity values were >80.0% for all age groups. CONCLUSIONS: In the Spanish UPSIT version, sensitivity and specificity are improved when specific cut-off scores for different age groups are computed.
+30007334	83	102	Parkinson's Disease	Disease	MESH:D010300
+30007334	221	241	olfactory impairment	Disease	MESH:D000857
+30007334	245	264	Parkinson's disease	Disease	MESH:D010300
+30007334	266	268	PD	Disease	MESH:D010300
+30007334	506	508	PD	Disease	MESH:D010300
+30007334	509	517	patients	Species	9606
+30007334	637	639	PD	Disease	MESH:D010300
+30007334	640	648	patients	Species	9606
+30007334	759	761	PD	Disease	MESH:D010300
+30007334	902	909	anosmia	Disease	MESH:D000857
+30007334	991	993	PD	Disease	MESH:D010300
+
+11385001|t|Anosmia in dementia is associated with Lewy bodies rather than Alzheimer's pathology.
+11385001|a|
+11385001	0	7	Anosmia	Disease	MESH:D000857
+11385001	11	19	dementia	Disease	MESH:D003704
+11385001	39	50	Lewy bodies	Disease	MESH:D020961
+11385001	63	74	Alzheimer's	Disease	MESH:D000544
+
+35894511|t|COVID-19 and olfactory dysfunction: a looming wave of dementia?
+35894511|a|Olfactory dysfunction is a hallmark symptom of COVID-19 disease resulting from the SARS-CoV-2 virus. The cause of the sudden and usually temporary anosmia that most people suffer from COVID-19 is likely entirely peripheral-inflammation and other damage caused by the virus in the sensory epithelium inside the upper recesses of the nasal cavity can damage or prevent chemicals from properly activating the olfactory sensory neurons. However, persistent olfactory dysfunction from COVID-19, in the form of hyposmia and parosmia (decreased or altered smell) may affect as many as 15 million people worldwide. This epidemic of olfactory dysfunction is thus a continuing public health concern. Mounting evidence suggests that the SARS-CoV-2 virus itself or inflammation from the immune response in the nasal sensory epithelium may invade the olfactory bulb, likely via non-neuronal transmission. COVID-19-related long-term olfactory dysfunction and early damage to olfactory and limbic brain regions suggest a pattern of degeneration similar to that seen in early stages of Alzheimer's disease, Parkinson's disease, and Lewy body dementia. Thus, long-term olfactory dysfunction coupled with cognitive and emotional disturbance from COVID-19 may be the first signs of delayed onset dementia from neurodegeneration. Few treatments are known to be effective to prevent further degeneration, but the first line of defense against degeneration may be olfactory and environmental enrichment. There is a pressing need for more research on treatments for olfactory dysfunction and longitudinal studies including cognitive and olfactory function from patients who have recovered from even mild COVID-19.NEW & NOTEWORTHY More than 15 million people worldwide experience persistent COVID-19 olfactory dysfunction, possibly caused by olfactory bulb damage. SARS-CoV-2 can cause inflammation and viral invasion of the olfactory bulb, initiating a cascade of degeneration similar to Alzheimer's disease and Lewy body disease. People who have had even mild cases of COVID-19 show signs of degeneration in cortical areas connected with the olfactory system. These data suggest a wave of post-COVID dementia in the coming decades.
+35894511	0	8	COVID-19	Disease	MESH:D000086382
+35894511	13	34	olfactory dysfunction	Disease	MESH:D000857
+35894511	54	62	dementia	Disease	MESH:D003704
+35894511	64	85	Olfactory dysfunction	Disease	MESH:D000857
+35894511	111	127	COVID-19 disease	Disease	MESH:D000086382
+35894511	147	157	SARS-CoV-2	Species	2697049
+35894511	211	218	anosmia	Disease	MESH:D000857
+35894511	248	256	COVID-19	Disease	MESH:D000086382
+35894511	287	299	inflammation	Disease	MESH:D007249
+35894511	517	538	olfactory dysfunction	Disease	MESH:D000857
+35894511	544	552	COVID-19	Disease	MESH:D000086382
+35894511	569	577	hyposmia	Disease	MESH:D000086582
+35894511	582	590	parosmia	Disease	MESH:D000857
+35894511	602	618	or altered smell	Disease	MESH:D000857
+35894511	688	709	olfactory dysfunction	Disease	MESH:D000857
+35894511	790	800	SARS-CoV-2	Species	2697049
+35894511	817	829	inflammation	Disease	MESH:D007249
+35894511	956	964	COVID-19	Disease	MESH:D000086382
+35894511	983	1004	olfactory dysfunction	Disease	MESH:D000857
+35894511	1134	1153	Alzheimer's disease	Disease	MESH:D000544
+35894511	1155	1174	Parkinson's disease	Disease	MESH:D010300
+35894511	1180	1198	Lewy body dementia	Disease	MESH:D020961
+35894511	1216	1237	olfactory dysfunction	Disease	MESH:D000857
+35894511	1251	1286	cognitive and emotional disturbance	Disease	MESH:D003072
+35894511	1292	1300	COVID-19	Disease	MESH:D000086382
+35894511	1341	1349	dementia	Disease	MESH:D003704
+35894511	1355	1372	neurodegeneration	Disease	MESH:D019636
+35894511	1607	1628	olfactory dysfunction	Disease	MESH:D000857
+35894511	1702	1710	patients	Species	9606
+35894511	1745	1757	COVID-19.NEW	Disease	MESH:D000086382
+35894511	1831	1839	COVID-19	Disease	MESH:D000086382
+35894511	1840	1861	olfactory dysfunction	Disease	MESH:D000857
+35894511	1882	1903	olfactory bulb damage	Disease	MESH:D000857
+35894511	1905	1915	SARS-CoV-2	Species	2697049
+35894511	1926	1938	inflammation	Disease	MESH:D007249
+35894511	2029	2048	Alzheimer's disease	Disease	MESH:D000544
+35894511	2053	2070	Lewy body disease	Disease	MESH:D020961
+35894511	2111	2119	COVID-19	Disease	MESH:D000086382
+35894511	2231	2250	post-COVID dementia	Disease	MESH:D000094024
+
+16170073|t|Anosmia is very common in the Lewy body variant of Alzheimer's disease.
+16170073|a|BACKGROUND: Olfactory abnormalities are reported in Alzheimer's disease and Parkinson's disease. Anosmia appears to be common in dementia with Lewy bodies but not in pure Alzheimer's disease. OBJECTIVE: To determine whether anosmia improves discrimination between the Lewy body variant (LBV) of Alzheimer's disease and "pure" Alzheimer's disease. METHODS: 106 cases of necropsy confirmed pure Alzheimer's disease (n = 89) or LBV (n = 17) were reviewed. All had received butanol odour threshold testing. Anosmia was defined as a score < or = 1.0 on a 0-9 point scale. Logistic regression analysis was used to model potential predictors (for example, parkinsonism, smoking, hallucinations) of neuropathological diagnosis and anosmia. RESULTS: LBV cases had an increased prevalence of anosmia (65%) compared with Alzheimer's disease (23%; odds ratio (OR) = 6.3, p = 0.00045), or normal elderly people (6.7%). Within the dementia cases, the negative predictive value (92%) and specificity (78%) of anosmia were both good; sensitivity for detecting LBV was 65%, but the positive predictive value (PPV) was only 35%. Logistic regression models showed anosmia (OR = 5.4, p = 0.005) and visual hallucinations (OR = 7.3, p = 0.007) were strong independent predictors of Lewy body pathology. When anosmia was added as a core feature to consensus diagnostic criteria for probable Lewy body dementia, five additional cases of LBV were detected (29% increased sensitivity), but with four additional false positives (1% increased discrimination, 4% decreased specificity, 33% decreased PPV). CONCLUSIONS: Anosmia is very common in LBV. Adding anosmia as a core feature improved sensitivity for detecting LBV, but did not improve discrimination between Alzheimer's disease and LBV owing to a concomitant increase in false positives.
+16170073	0	7	Anosmia	Disease	MESH:D000857
+16170073	30	39	Lewy body	Disease	MESH:D020961
+16170073	51	70	Alzheimer's disease	Disease	MESH:D000544
+16170073	84	107	Olfactory abnormalities	Disease	MESH:D000857
+16170073	124	143	Alzheimer's disease	Disease	MESH:D000544
+16170073	148	167	Parkinson's disease	Disease	MESH:D010300
+16170073	169	176	Anosmia	Disease	MESH:D000857
+16170073	201	226	dementia with Lewy bodies	Disease	MESH:D020961
+16170073	243	262	Alzheimer's disease	Disease	MESH:D000544
+16170073	296	303	anosmia	Disease	MESH:D000857
+16170073	340	349	Lewy body	Disease	MESH:D020961
+16170073	367	386	Alzheimer's disease	Disease	MESH:D000544
+16170073	398	417	Alzheimer's disease	Disease	MESH:D000544
+16170073	465	484	Alzheimer's disease	Disease	MESH:D000544
+16170073	542	549	butanol	Chemical	MESH:D000440
+16170073	575	582	Anosmia	Disease	MESH:D000857
+16170073	721	733	parkinsonism	Disease	MESH:D010302
+16170073	744	758	hallucinations	Disease	MESH:D006212
+16170073	795	802	anosmia	Disease	MESH:D000857
+16170073	854	861	anosmia	Disease	MESH:D000857
+16170073	882	901	Alzheimer's disease	Disease	MESH:D000544
+16170073	989	997	dementia	Disease	MESH:D003704
+16170073	1066	1073	anosmia	Disease	MESH:D000857
+16170073	1217	1224	anosmia	Disease	MESH:D000857
+16170073	1251	1272	visual hallucinations	Disease	MESH:D006212
+16170073	1333	1342	Lewy body	Disease	MESH:D020961
+16170073	1359	1366	anosmia	Disease	MESH:D000857
+16170073	1441	1459	Lewy body dementia	Disease	MESH:D020961
+16170073	1663	1670	Anosmia	Disease	MESH:D000857
+16170073	1701	1708	anosmia	Disease	MESH:D000857
+16170073	1810	1829	Alzheimer's disease	Disease	MESH:D000544
+
+20083801|t|Association of anosmia with autonomic failure in Parkinson disease.
+20083801|a|BACKGROUND: Olfactory dysfunction and autonomic failure are gaining recognition as nonmotor manifestations of Parkinson disease (PD). This observational study assessed whether in PD anosmia and autonomic failure are related to each other or to neuroimaging evidence of striatal dopamine deficiency. METHODS: Olfactory function was assessed by the University of Pennsylvania Smell Identification Test (UPSIT) in 23 patients with sporadic PD. Baroreflex-cardiovagal gain was quantified from the relationship between cardiac interbeat interval and systolic pressure during the Valsalva maneuver and baroreflex-sympathoneural function by responses of systolic pressure to the Valsalva maneuver and of hemodynamics and plasma norepinephrine (NE) and dihydroxyphenylglycol (DHPG) levels to orthostasis. 6-[(18)F]Fluorodopamine PET and plasma and skeletal muscle microdialysate NE and DHPG were used to indicate cardiac and extracardiac noradrenergic innervation and brain 6-[(18)F]fluorodopa PET to indicate striatal dopaminergic innervation. Parkinsonism was assessed by UPDRS scores. RESULTS: Compared to patients with PD and normal to moderately decreased sense of smell, patients with anosmic PD had lower mean baroreflex-cardiovagal gain (p = 0.04), larger falls in systolic pressure during the Valsalva maneuver and orthostasis (p = 0.04, p = 0.02), smaller orthostatic increments in plasma NE and DHPG (p = 0.003, p = 0.03), lower cardiac septal:hepatic and renal cortical:hepatic ratios of 6-[(18)F]fluorodopamine-derived radioactivity (p = 0.01, p = 0.06), and lower microdialysate NE and DHPG (p = 0.01; p = 0.006). Neither clinical severity of parkinsonism nor the putamen:occipital cortex ratio of 6-[(18)F]fluorodopa-derived radioactivity was related to the UPSIT category. CONCLUSIONS: In Parkinson disease, anosmia is associated with baroreflex failure and cardiac and organ-selective extracardiac noradrenergic denervation, independently of parkinsonism or striatal dopaminergic denervation.
+20083801	15	22	anosmia	Disease	MESH:D000857
+20083801	28	45	autonomic failure	Disease	MESH:D012791
+20083801	49	66	Parkinson disease	Disease	MESH:D010300
+20083801	80	101	Olfactory dysfunction	Disease	MESH:D000857
+20083801	106	123	autonomic failure	Disease	MESH:D012791
+20083801	178	195	Parkinson disease	Disease	MESH:D010300
+20083801	197	199	PD	Disease	MESH:D010300
+20083801	247	249	PD	Disease	MESH:D010300
+20083801	250	257	anosmia	Disease	MESH:D000857
+20083801	262	279	autonomic failure	Disease	MESH:D012791
+20083801	346	365	dopamine deficiency	Disease	MESH:C567730
+20083801	482	490	patients	Species	9606
+20083801	505	507	PD	Disease	MESH:D010300
+20083801	789	803	norepinephrine	Chemical	MESH:D009638
+20083801	813	834	dihydroxyphenylglycol	Chemical	-
+20083801	836	840	DHPG	Chemical	-
+20083801	852	863	orthostasis	Disease	MESH:D004244
+20083801	865	888	6-[(18)F]Fluorodopamine	Chemical	MESH:C029253
+20083801	946	950	DHPG	Chemical	-
+20083801	1034	1053	6-[(18)F]fluorodopa	Chemical	-
+20083801	1079	1091	dopaminergic	Chemical	MESH:D004298
+20083801	1105	1117	Parkinsonism	Disease	MESH:D010302
+20083801	1169	1177	patients	Species	9606
+20083801	1183	1185	PD	Disease	MESH:D010300
+20083801	1221	1229	sense of	Disease	MESH:D020886
+20083801	1237	1245	patients	Species	9606
+20083801	1259	1261	PD	Disease	MESH:D010300
+20083801	1384	1395	orthostasis	Disease	MESH:D004244
+20083801	1466	1470	DHPG	Chemical	-
+20083801	1560	1583	6-[(18)F]fluorodopamine	Chemical	MESH:C029253
+20083801	1660	1664	DHPG	Chemical	-
+20083801	1717	1729	parkinsonism	Disease	MESH:D010302
+20083801	1772	1791	6-[(18)F]fluorodopa	Chemical	-
+20083801	1865	1882	Parkinson disease	Disease	MESH:D010300
+20083801	1884	1891	anosmia	Disease	MESH:D000857
+20083801	1911	1929	baroreflex failure	Disease	MESH:D051437
+20083801	2019	2031	parkinsonism	Disease	MESH:D010302
+20083801	2044	2056	dopaminergic	Chemical	MESH:D004298
+20083801	Association	MESH:D009638	MESH:D004244
+
